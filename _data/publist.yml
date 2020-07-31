@@ -9,6 +9,16 @@
   news2:
 
 
+- title: "The role of node dynamics in shaping emergent functional connectivity patterns in the brain."
+  image: dummy.png
+  description: ""
+  authors: Forrester M, Crofts JJ, Sotiropoulos SN, Coombes S, O'Dea RD 
+  link:
+    url: https://doi.org/10.1162/netn_a_00130
+    display: Network Neuroscience 4:467-483 (2020)
+  highlight: 0
+
+
 - title: "Improved fibre dispersion estimation using b-tensor encoding."
   image: dummy.png
   description: ""
