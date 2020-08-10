@@ -66,7 +66,7 @@ are available.
 
 ### NFacT
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/nmf.jpg" width="15%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/nmf.jpg" width="20%">
 </figure>
 
 NFacT (Non-negative matrix FACtorisation of Tractography data) is a framework for performing data-driven decomposition of
