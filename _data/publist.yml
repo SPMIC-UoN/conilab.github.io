@@ -1,3 +1,13 @@
+- title: "Non-negative data-driven mapping of structural connections with application to the neonatal brain."
+  image: nmf.jpg
+  description: ""
+  authors: Thompson E, Mohammadi-Nejad AR, Robinson EC, Andersson JLR, Jbabdi S, Glasser MF, Bastiani M, Sotiropoulos SN
+  link:
+    url:
+    display:  Neuroimage accepted (2020)
+  highlight: 1
+  news2:
+  
 - title: "XTRACT - Standardised protocols for automated tractography in the human and macaque brain."
   image: xtract.jpg
   description: ""
