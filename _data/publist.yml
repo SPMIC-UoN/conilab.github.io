@@ -2,9 +2,9 @@
   image: dummy.png
   description: ""
   authors: Tanno R, Worrall DE, Kaden E, Ghosh A, Grussu F, Bizzi A, Sotiropoulos SN, Criminisi A, Alexander DC
-    link:
+  link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117366
-    display:  Neuroimage 117366 (2020)
+    display: Neuroimage 117366 (2020)
   highlight: 0
   
 - title: "Non-negative data-driven mapping of structural connections with application to the neonatal brain."
@@ -13,7 +13,7 @@
   authors: Thompson E, Mohammadi-Nejad AR, Robinson EC, Andersson JLR, Jbabdi S, Glasser MF, Bastiani M, Sotiropoulos SN
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117273
-    display:  Neuroimage 117273 (2020)
+    display: Neuroimage 117273 (2020)
   highlight: 1
   news2:
   
@@ -49,7 +49,7 @@
 
 
 - title: "A data-driven approach to optimising the encoding for multi-shell diffusion MRI with application to neonatal imaging."
-  image: ""
+  image: dummy.png
   description: ""
   authors: Tournier J-D, Christiaens D, Hutter J, Price AN, Cordero-Grande L, Hughes E, Bastiani M, Sotiropoulos SN, Smith SM, Rueckert D, Counsell SJ, Edwards DA, Hajnal JV
   link:
