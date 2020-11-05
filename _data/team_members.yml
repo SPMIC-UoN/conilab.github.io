@@ -103,3 +103,15 @@
   education1: BSc Physics, University of Nottingham, UK
   education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
   external_sites: 0
+
+
+
+- name: Jenna Hanmer
+  photo: jenna.jpg
+  info: PhD Student, started 10/2020
+  email: lpxjh11@nottingham.ac.uk
+  number_educ: 3
+  education1: MSci Neuroscience, University of Nottingham, UK
+  education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
+  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
+  external_sites: 0
