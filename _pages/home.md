@@ -7,7 +7,7 @@ permalink: /
 ---
 
 We are a dynamic research group at the [Sir Peter Mansfield Imaging Centre](https://www.nottingham.ac.uk/research/groups/spmic/index.aspx){:target="_blank"} in the
-School of Medicine, University of Nottingham. Our aim is to develop
+[School of Medicine](https://www.nottingham.ac.uk/medicine/){:target="_blank"}, University of Nottingham. Our aim is to develop
 imaging technology and image processing platforms for exploring and understanding the brain from a systems perspective.
 
 <p> &nbsp; </p>
@@ -73,19 +73,19 @@ have a number of national and international [collaborations]({{ site.url }}{{ si
 strong links with the [Analysis](https://www.win.ox.ac.uk/research/analysis-research){:target="_blank"} group at the [WIN](https://www.win.ox.ac.uk){:target="_blank"} Centre, University of
 Oxford.
 
-We are grateful for funding from the University of Nottingham and the
-[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"},
-the [Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, and the [UKRI](https://www.ukri.org){:target="_blank"}.
+We are grateful for funding from the [European Research Council](https://erc.europa.eu/){:target="_blank"}, the
+[Wellcome Trust](https://wellcome.ac.uk){:target="_blank"}, the [UKRI](https://www.ukri.org){:target="_blank"} and the University of Nottingham/[Precision Imaging Beacon](https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx){:target="_blank"}.
 
 <p> &nbsp; </p>
 
 <div markdown="1" class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 62px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WT.jpg" style="width: 74px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 153px">
- </figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
+</figure>
 </div>
 
 <p> &nbsp; </p>
