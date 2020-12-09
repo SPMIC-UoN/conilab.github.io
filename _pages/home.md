@@ -84,7 +84,7 @@ We are grateful for funding from the [European Research Council](https://erc.eur
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WT.jpg" style="width: 74px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_EPSRC.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MRC.jpg" style="width: 153px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SPMIC.jpg" style="width: 190px">
 </figure>
 </div>
 
