@@ -8,7 +8,9 @@ permalink: /vacancies
 
 # Open positions
 
-We have no job openings at the moment. 
+We will have multiple job openings in the
+new year (2021) for post-doctoral reseachers to work on an ERC
+Programme Grant. Email us for informal discussions/inquiries if interested!
 
 ### Applications for PhD and Postdoc positions
 
