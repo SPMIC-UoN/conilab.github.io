@@ -1,3 +1,12 @@
+- title: "Modelling white matter in gyral blades as a continuous vector field"
+  image: dummy.png
+  description: ""
+  authors: Cottaar M, Bastiani M, Boddu N, Glasser MF, Haber S, Van Essen DC, Sotiropoulos SN*, Jbabdi S*
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2020.117693
+    display: Neuroimage 117693 (2020)
+  highlight: 0
+
 - title: "Quantum Computing at the Frontiers of Biological Sciences"
   image: dummy.png
   description: ""
