@@ -198,6 +198,7 @@ University of Minnesota, USA <br>
 * [Daniel Alexander](http://www0.cs.ucl.ac.uk/staff/D.Alexander){:target="_blank"}, University College London, UK <br>
 * [Takuya Hayashi](https://www.bdr.riken.jp/en/research/labs/hayashi-t/index.html){:target="_blank"}, RIKEN, Japan <br>
 * [Mark Jenkinson](https://researchers.adelaide.edu.au/profile/mark.jenkinson#my-research){:target="_blank"}, University of Oxford & University of Adelaide, Australia <br>
+* [John Murray](https://medicine.yale.edu/lab/murray){:target="_blank"}, Yale University, USA <br>
 * [Dorothee Auer](https://www.nottingham.ac.uk/medicine/people/dorothee.auer){:target="_blank"}, University of Nottingham, UK <br>
 
 <p> &nbsp; </p>
