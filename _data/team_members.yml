@@ -16,11 +16,8 @@
   
   
 - name: 
-  photo:
   info:
-  email: 
-  number_educ: 1
-  education1: 
+  number_educ:
   external_sites: 
 
 
