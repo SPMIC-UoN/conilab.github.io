@@ -16,7 +16,7 @@
   
   
 - name: 0
-  photo: dummy.jpg
+  photo:
   info:
   number_educ:
   external_sites: 
