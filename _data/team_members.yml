@@ -15,21 +15,15 @@
   researchgate: https://www.researchgate.net/profile/Stamatios_Sotiropoulos
   
   
-- name: Matteo Bastiani
-  photo: matteo.jpg
-  info: Senior Research Fellow, started 10/2018
-  email: matteo.bastiani@nottingham.ac.uk
-  number_educ: 4
-  education1: BSc Electronic Engineering, University of Trieste, Italy
-  education2: MSc Clinical Engineering | Cognitive Neurosciences, Maastricht University, NL
-  education3: PhD Maastricht University, NL
-  education4: <a href="https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/precision-imaging.aspx" target="_blank">Precision Imaging Beacon</a> Fellow
-  external_sites: 3
-  google_scholar: https://scholar.google.co.uk/citations?user=fr3BWEAAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0002-8436-2919
-  researchgate: https://www.researchgate.net/profile/Matteo_Bastiani2
-  
-  
+- name: 
+  photo:
+  info:
+  email: 
+  number_educ: 1
+  education1: 
+  external_sites: 
+
+
 - name: Yi Ming Lai 
   photo: yiming.jpg
   info: Post-doctoral Research Associate, started 01/2020
@@ -59,12 +53,13 @@
 
 - name: Elinor Thompson
   photo: ellie.jpg
-  info: PhD Student, started 10/2017
+  info: Research Assistant, started 10/2017
   email: elinor.thompson@nottingham.ac.uk
-  number_educ: 3
+  number_educ: 4
   education1: BSc Physics, University of Cambridge, UK
   education2: MSc Physics, University of Cambridge, UK
-  education3: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
+  education3: PhD, University of Nottingham, UK
+  education4:Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
   external_sites: 1
   orcid: https://orcid.org/0000-0002-3954-9530
 

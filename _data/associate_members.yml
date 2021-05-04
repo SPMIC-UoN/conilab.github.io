@@ -1,3 +1,10 @@
+- name: Matteo Bastiani
+  photo: matteo.jpg
+  info: Senior Data Analyst, Expedia Group
+  email: matteo.bastiani1@nottingham.ac.uk
+  number_educ: 1
+  education1: 
+
 - name: Stefan Pszczolkowski Parraguez
   photo: stefan.jpg
   info: Research Fellow
