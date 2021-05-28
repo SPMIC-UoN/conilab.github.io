@@ -25,12 +25,13 @@ Jump to [staff](#staff), [alumni](#alumni),
 
 <div class="col-sm-6 clearfix">
   {% if member.name != 0 %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+   {% if member.personalweb  %}
+    <a href="{{ member.personalweb }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
+    {% else %}
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+    {% endif %}
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-{% if member.personalweb  %}
-<i>Personal <a href="{{ member.personalweb }}" target="_blank"> Webpage</a></i>
-{% endif %}
 {% endif %}
   <ul style="overflow: hidden">
 
