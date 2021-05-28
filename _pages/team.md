@@ -28,9 +28,6 @@ Jump to [staff](#staff), [alumni](#alumni),
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-	   {% if member.personalweb  %}
-	     <i>personal <a href="{{ member.personalweb }}" target="_blank">webpage</a></i>
-	   {% endif %}
   {% endif %}
 
   {% endif %}
