@@ -174,7 +174,12 @@ MRI acquired).
   study, which scans *100,000 individuals* with 6 neuroimaging
   modalities (T1w, T2w-FLAIR, SWI, dMRI, resting-state fMRI, task fMRI).
 
-* [QuNEX](https://qunex.yale.edu){:target="_blank"} 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/qunex.jpg" width="20%">
+</figure>
+* We are collaborating with the [Anticevic](https://medicine.yale.edu/lab/anticevic){:target="_blank"} and [Repovs](http://mblab.si/){:target="_blank"}  labs in the
+  development of the [QuNEX](https://qunex.yale.edu){:target="_blank"}
+  integrative environment for neuroimage processing and analysis.
 
 
 <p> &nbsp; </p>
