@@ -27,9 +27,9 @@ Jump to [staff](#staff), [alumni](#alumni),
   {% if member.name != 0 %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
 {% if member.personalweb  %}
-<i><br>personal <a href="{{ member.personalweb }}" target="_blank"> webpage</a></i>
+<i>personal <a href="{{ member.personalweb }}" target="_blank"> webpage</a></i>
 {% endif %}
 {% endif %}
   <ul style="overflow: hidden">
