@@ -65,12 +65,14 @@
 
 - name: Shaun Warrington
   photo: shaun.jpg
-  info: PhD Student, started 01/2018
+  info: Research Assistant, started 04/2021
   email: shaun.warrington@nottingham.ac.uk
-  number_educ: 3
+  number_educ: 4
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Clinical Sciences, Newcastle University, UK
-  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
+  education3: PhD, University of Nottingham, UK
+  education4: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
+  education5: <a href="https://swarrington1.github.io" target="_blank">Personal Webpage</a>
   external_sites: 2
   orcid: https://orcid.org/0000-0002-7198-8162
   researchgate: https://www.researchgate.net/profile/Shaun_Warrington
