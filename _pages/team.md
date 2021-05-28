@@ -31,7 +31,7 @@ Jump to [staff](#staff), [alumni](#alumni),
   {% endif %}
   <ul style="overflow: hidden">
 
-{% if member.personalweb !=0  %}
+{% if member.personalweb  %}
 <i><br>personal <a href="{{ member.personalweb }}" target="_blank"> webpage</a></i>
 {% endif %}
 		 
