@@ -175,10 +175,10 @@ MRI acquired).
   modalities (T1w, T2w-FLAIR, SWI, dMRI, resting-state fMRI, task fMRI).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/qunex.jpg" width="20%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/qunex.jpg" width="10%">
 </figure>
 * We are collaborating with the [Anticevic](https://medicine.yale.edu/lab/anticevic){:target="_blank"} and [Repovs](http://mblab.si/){:target="_blank"}  labs in the
-  development of the [QuNEX](https://qunex.yale.edu){:target="_blank"}
+  development of the [QuNex](https://qunex.yale.edu){:target="_blank"}
   integrative environment for neuroimage processing and analysis.
 
 
