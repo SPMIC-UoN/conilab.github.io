@@ -1,7 +1,8 @@
 - name: Stam Sotiropoulos
   photo: stam.jpg
   info: Associate Professor<br> Honorary Research Fellow, <a href="https://www.ndcn.ox.ac.uk/team/stamatios-sotiropoulos" target="_blank">WIN Centre</a>, Oxford
-  email: stamatios.sotiropoulos@nottingham.ac.uk   
+  email: stamatios.sotiropoulos@nottingham.ac.uk
+  personalweb: 0
   number_educ: 4
   education1: BSc Electronics & Computer Engineering, <a href="https://www.ece.tuc.gr/4455.html" target="_blank">Technical University of Crete</a>, Greece
   education2: MSc Biomedical Engineering, <a href="https://cse.umn.edu/bme" target="_blank">University of Minnesota</a>, USA
@@ -18,6 +19,7 @@
 - name: 0
   photo:
   info:
+  personalweb: 0
   number_educ:
   external_sites: 
 
@@ -26,6 +28,7 @@
   photo: yiming.jpg
   info: Post-doctoral Research Associate, started 01/2020
   email: pmzyl@exmail.nottingham.ac.uk
+  personalweb: 0
   number_educ: 3
   education1: BSc Mathematics, University of Oxford, UK 
   education2: D.Phil. University of Oxford, UK 
@@ -40,6 +43,7 @@
   photo: ali.jpg
   info: Post-doctoral Researcher, started 05/2018
   email: mszam12@exmail.nottingham.ac.uk
+  personalweb: 0
   number_educ: 3
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
@@ -53,6 +57,7 @@
   photo: ellie.jpg
   info: Research Assistant, started 10/2017
   email: elinor.thompson@nottingham.ac.uk
+  personalweb: 0
   number_educ: 4
   education1: BSc Physics, University of Cambridge, UK
   education2: MSc Physics, University of Cambridge, UK
@@ -67,6 +72,7 @@
   photo: shaun.jpg
   info: Research Assistant, started 04/2021
   email: shaun.warrington@nottingham.ac.uk
+  personalweb: 0
   number_educ: 4
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Clinical Sciences, Newcastle University, UK
@@ -81,6 +87,7 @@
   photo: jose.jpg
   info: PhD Student, started 02/2019
   email: jose.manzanopatron1@nottingham.ac.uk
+  personalweb: 0
   number_educ: 3
   education1: BSc Electronic Engineering, University of Madrid, Spain
   education2: MSc Artificial Intelligence, University of Madrid, Spain
@@ -93,6 +100,7 @@
   photo: asante.jpg
   info: PhD Student, started 10/2019
   email: asante.ntata@nottingham.ac.uk
+  personalweb: 0
   number_educ: 2
   education1: BSc Physics, University of Nottingham, UK
   education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
@@ -104,6 +112,7 @@
   photo: jenna.jpg
   info: PhD Student, started 10/2020
   email: jenna.hanmer@nottingham.ac.uk
+  personalweb: 0
   number_educ: 3
   education1: MSci Neuroscience, University of Nottingham, UK
   education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
