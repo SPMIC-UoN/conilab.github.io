@@ -1,10 +1,19 @@
+- title: "The Human Connectome Project: A Retrospective"
+  image: dummy.png
+  description: ""
+  authors: Elam JS, Glasser MF, Harms MP, Sotiropoulos SN, Andersson JLR, Burgess GC, Curtiss SW, Oostenveld R, Larson-Prior LJ, Schoffelen JM, Hodge MR, Cler EA, Marcus DM, Barch DM, Yacoub E, Smith SM, Ugurbil K, Van Essen DC
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2021.118543
+    display: Neuroimage 244:118543 (2021)
+  highlight: 0
+
 - title: "Modelling white matter in gyral blades as a continuous vector field"
   image: dummy.png
   description: ""
   authors: Cottaar M, Bastiani M, Boddu N, Glasser MF, Haber S, Van Essen DC, Sotiropoulos SN*, Jbabdi S*
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117693
-    display: Neuroimage 117693 (2021)
+    display: Neuroimage 227:117693 (2021)
   highlight: 0
 
 - title: "Quantum Computing at the Frontiers of Biological Sciences"
@@ -13,7 +22,7 @@
   authors: Emani PS, Warrell J, Anticevic A, Bekiranov S, Gandal M, McConnell MJ, Sapiro G, Aspuru-Guzik A, Baker J, Bastiani M, McClure P, Murray J, Sotiropoulos SN, Taylor J, Senthil G, Lehner T, Gerstein MB, Harrow AW
   link:
     url: https://doi.org/10.1038/s41592-020-01004-3
-    display: Nature Methods, in press (2021)
+    display: Nature Methods 18: 701-709 (2021)
   highlight: 0
 
 - title: "Uncertainty Modelling in Deep Learning for Safer Neuroimage Enhancement: Demonstration in Diffusion MRI."
@@ -22,7 +31,7 @@
   authors: Tanno R, Worrall DE, Kaden E, Ghosh A, Grussu F, Bizzi A, Sotiropoulos SN, Criminisi A, Alexander DC
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117366
-    display: Neuroimage 117366 (2020)
+    display: Neuroimage 225:117366 (2020)
   highlight: 0
   
 - title: "Non-negative data-driven mapping of structural connections with application to the neonatal brain."
@@ -31,7 +40,7 @@
   authors: Thompson E, Mohammadi-Nejad AR, Robinson EC, Andersson JLR, Jbabdi S, Glasser MF, Bastiani M, Sotiropoulos SN
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117273
-    display: Neuroimage 117273 (2020)
+    display: Neuroimage 222:117273 (2020)
   highlight: 1
   news2:
   
