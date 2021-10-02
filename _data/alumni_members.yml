@@ -2,7 +2,6 @@
   photo: moises.jpg
   info: PhD student (2013-2017)
   now: Engineer at NVIDIA, USA (post-doc at University of Pennsylvania, USA)
-  email: moisesh@nvidia.com
   number_educ: 1
   education1: 
 
@@ -10,6 +9,12 @@
   photo: jivesh.jpg
   info: Reseach Assistant (2018-2019)
   now: PhD student at Trinity College Dublin, Ireland
-  email: ramdunyj@tcd.ie
   number_educ: 1
   education1: 
+
+- name: Elinor Thompson
+  photo: ellie.jpg
+  info: PhD student (2017-2021)
+  now: Post-doctoral Researcher, CMIG, University College London
+  number_educ: 1
+  education1:
