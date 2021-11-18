@@ -1,85 +1,78 @@
 ---
-title: "CoNI Lab - Bedpostx"
+title: "CoNI Lab - cuDIMOT"
 layout: textlay
-excerpt: "Bedpostx"
+excerpt: "cuDIMOT"
 sitemap: false
-permalink: /software/bedpostx
+permalink: /software/cudimot
 ---
 
-# BedpostX
+# CUDA Diffusion Modelling Toolbox (cuDIMOT)
 
-Tool for estimating multiple fibre orientations from diffussion MRI on NVIDIA GPUs
+CUDIMOT is a toolbox, part of [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) 
+(FMRIB Software Library), for designing and implementing MRI nonlinear models 
+on Graphics Processing Units (GPUs).
 
-Part of [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) (FMRIB Software Library)
+The toolbox includes:
 
-For information about the functionality of the tool, see the [BEDPOSTX User Guide](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide#BEDPOSTX)
+ - An easy C interface for specifying your model parameters and functions.
+ - Three nonlinear optimisation routines:
+   - MCMC
+   - Levenberg-Marquardt
+   - Grid Search
+ - Can use different models concatenating outputs/inputs
+ - Gaussian and Rician noise modelling
+ - Parameters bounds and Priors: Gaussian, Gamma, ARD, sin()
+ - Bayesian information criterion (BIC) and Akaike information criterion (AIC)
+ - Several diffusion MRI models implemented: Ball&Sticks, NODDI-Watson, NODDI-Bingham, Ball&Rackets
+ - Can use multiple GPUs to fit a dataset
 
-This page provides binary downloads of the GPU version of Bedpostx. 
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/bedpostx_times.png" width="50%">
-</figure>
-
-## Speedup
-
-GPU BedpostX offers accelerations of *more than 200 times using a single GPU compared to 
-a single CPU core: 1 GPU ≈ 200 CPU cores.*
-
-|Measurements	      | 36	 | 72	  | 108	  | 145	  | 181	  | 218	  | 254	  | 291
-|-------------------|------|------|-------|-------|-------|-------|-------|-------
-|Low-res 1 fibre	  | 96×	 | 145×	| 167×	| 175×	| 183×	| 195×	| 202×	| 196×
-|Low-res 2 fibres	  | 98×	 | 149×	| 174×	| 180×	| 193×	| 206×	| 217×	| 207×
-|Low-res 3 fibres	  | 92×	 | 144×	| 172×	| 195×	| 210×	| 225×	| 235×	| 220×
-|High-res 1 fibre	  | 99×	 | 148×	| 171×	| 180×	| 214×	| 225×	| 233×	| 227×
-|High-res 2 fibres	| 109× | 168×	| 196×	| 203×	| 215×	| 232×	| 238×	| 230×
-|High-res 3 fibres	| 96×	 | 163×	| 194×	| 201×	| 209×	| 223×	| 236×	| 221×
-
-Source code is distributed within FSL: FSL Wiki
-
-## Citation
-
-If you use Bedpostx GPU in publications, please cite [this paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061892):
-
-Hernández M, Guerrero GD, Cecilia JM, García JM, Inuggi A, Jbabdi S, Behrens TE, Sotiropoulos SN. 
-*Accelerating fibre orientation estimation from diffusion weighted magnetic resonance imaging using GPUs.*
-**PLoS One. 2013 Apr 29;8(4):e61892**
+The only required libraries are FSL (FMRIB Software Library) and CUDA toolkit.
+**You will need an NVIDIA GPU.***
 
 ## Installation
 
- - Download the correct bedpostx_gpu file for your CUDA version
- - Unzip ``bedpostx_gpu`` file
- - Copy all the files from ``bin`` directory into your ``$FSLDIR/bin`` directory
- - Copy all the files from ``lib`` directory into your ``$FSLDIR/lib`` directory
- - To execute it use: ``$FSLDIR/bin/bedpostx_gpu``
+If you want to use the toolbox for implementing your own models you can download it here:
 
-### FSL 6.x FILES
+[cudimot.zip]()
 
- - [bedpostx_gpu_cuda_7.5](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_7.5/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_8.0](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_8.0/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_9.0](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_9.0/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_9.1](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_9.1/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_9.2](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_9.2/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_10.0](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_10.0/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_10.1](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_10.1/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_10.2](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_10.2/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_11.0 (supports Ampere)](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_11/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_11.2 (supports Ampere)](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_11.2/bedpostx_gpu.zip)
+### Downloading individual cuDIMOT NODDI_Watson binaries and scripts
 
-CUDA 11.3 or later version binaries will be supported within FSL installer starting from FSL 6.0.6
+ - Create a directory for storing CUDIMOT binary files and set ``CUDIMOT`` variable 
+   with that path - for instance: ``export CUDIMOT=/home/moises/CUDIMOT``
+ - Download the correct ``NODDI_Watson`` file for your CUDA version
+ - Unzip ``NODDI_Watson`` file
+ - Copy all the uncompressed files from ``NODDI_Watson/bin/*`` directory to your ``$CUDIMOT/bin/*`` directory
+ - To fit the model use:
+   ``$CUDIMOT/bin/Pipeline_NODDI_Watson.sh [SubjectDirectory]``
+ - The pipeline uses SGE for sending jobs to a GPU queue (name of queue can be redefined in ``FSLGECUDAQ`` environment variable).
+ - If you want to run the tool without using SGE, the environment variable ``SGE_ROOT`` should be unset: ``unset SGE_ROOT``
+ - If you have several GPUs, you can use the option ``-NJOBS X`` to create X different GPUs jobs, each one for processing 
+   a subpart of the dataset (this option can process the dataset very fast)
+ - Requirements: NVIDIA GPU compute capability >= 3.0
 
-## Credits
+[cudimot NODDI_Watson for CUDA 9.1](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Watson/CUDA_9.1/NODDI_Watson.zip)
+[cudimot NODDI_Watson for CUDA 10.0](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Watson/CUDA_10.0/NODDI_Watson.zip)
+[cudimot NODDI_Watson for CUDA 10.1](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Watson/CUDA_10.1/NODDI_Watson.zip)
+[cudimot NODDI_Watson for CUDA 10.2](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Watson/CUDA_10.2/NODDI_Watson.zip)
 
- - Moises Hernandez Fernandez (FMRIB, University of Oxford, UK)
- - Stamatios N Sotiropoulos (FMRIB, University of Oxford, UK)
- - Gines D. Guerrero (University of Murcia, Spain)
- - José M. Cecilia (University of Murcia, Spain)
- - José M. García (University of Murcia, Spain)
- - Timothy E. J. Behrens (FMRIB, University of Oxford, UK)
- - Saad Jbabdi (FMRIB, University of Oxford, UK)
- - Alberto Inuggi (Basque Center on Cognition, Brain and Language, Spain)
+ - You can also download cuDIMOT ``NODDI_Bingham`` binaries and scripts:
+ - Please follow the same steps as for ``NODDI_Watson``, but using ``NODDI_Bingham`` files
+ - To fit the model use:
+   ``$CUDIMOT/bin/Pipeline_NODDI_Bingham.sh [SubjectDirectory]``
 
-## Copyright
+[cudimot NODDI_Bingham for CUDA 9.1](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Bingham/CUDA_9.1/NODDI_Bingham.zip)
+[cudimot NODDI_Bingham for CUDA 10.0](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Bingham/CUDA_10.0/NODDI_Bingham.zip)
+[cudimot NODDI_Bingham for CUDA 10.1](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Bingham/CUDA_10.1/NODDI_Bingham.zip)
+[cudimot NODDI_Bingham for CUDA 10.2](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/NODDI_Bingham/CUDA_10.2/NODDI_Bingham.zip)
 
-Part of [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) (FMRIB Software Library)
+## Implementing your own model
 
-[License Infomation](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Licence)
+[Read here how to use the tool for implementing your own model.](/software/cudimot_own_model)
+
+## Citation
+
+If you use cuDIMOT in publications, please cite [this paper](https://www.sciencedirect.com/science/article/pii/S1053811918321591):
+
+Hernandez-Fernandez M., Reguly I., Jbabdi S, Giles M, Smith S., Sotiropoulos S.N. 
+*"Using GPUs to accelerate computational diffusion MRI: From microstructure estimation to tractography and connectomes."*
+**NeuroImage 188 (2019): 598-615.**
