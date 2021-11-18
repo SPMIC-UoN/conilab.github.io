@@ -6,6 +6,10 @@ sitemap: false
 permalink: /software/cudimot
 ---
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot.jpg" width="60%">
+</figure>
+
 # CUDA Diffusion Modelling Toolbox (cuDIMOT)
 
 CUDIMOT is a toolbox, part of [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki) 
@@ -67,7 +71,7 @@ If you want to use the toolbox for implementing your own models you can download
 
 ## Implementing your own model
 
-[Read here how to use the tool for implementing your own model.](/software/cudimot_own_model)
+[Read here how to use the tool for implementing your own model.]({{ site.url }}{{ site.baseurl }}/software/cudimot_own_model)
 
 ## Citation
 
