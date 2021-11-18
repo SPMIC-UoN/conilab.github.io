@@ -35,7 +35,7 @@ You need to edit the file ``mymodels/$modelname/modelparameters.h`` for specifyi
 You can choose between float or double types (single/double precision). The recommendation is to use double type for complex models.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/setNParams.png.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/setNParams.png" width="50%">
 </figure>
 
 There are 3 classes of parameters:
@@ -125,7 +125,7 @@ With this function you can define your own priors for any parameter. If you defi
 You can write a different custom prior for each model parameter, but you must use the ``id_p`` (Id of parameter) argument and if-else-if conditions to differentiate between actions to take, since any prior defined as custom() will call this function:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/CustomVoxelwisePriors.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/CustomPriors.png" width="50%">
 </figure>
 
 ## Define the model priors
@@ -135,7 +135,7 @@ Although this information is provided at execution time, you can define model pr
 All the priors are optional, but a file must be provided at execution time.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/ParametersPriors.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/priors.png" width="50%">
 </figure>
 
 You can specify a default initilization value for each parameter. However, volumes with values for each voxel can be provided at execution time.
