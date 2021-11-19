@@ -20,19 +20,19 @@ This page provides binary downloads of the GPU version of Probtrackx.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/probtrackx/times_ptx.png" width="50%">
 </figure>
 
-a) Execution times (in logarithmic scale) and speedup (standard deviation σ is also shown) in the reconstruction of 15 tracts comparing a GPU-based with a CPU-based probabilistic tractography framework. (b) Execution times (in logarithmic scale) and speedup (and its standard deviation σ) reconstructing 27 tracts. (c) Execution times (in logarithmic scale) and speedup (and std) generating a dense connectome, taking and without taking into account the time spent for merging results from differenc CPU cores (required only in the CPU-based solution).
+*a) Execution times (in logarithmic scale) and speedup (standard deviation σ is also shown) in the reconstruction of 15 tracts comparing a GPU-based with a CPU-based probabilistic tractography framework. (b) Execution times (in logarithmic scale) and speedup (and its standard deviation σ) reconstructing 27 tracts. (c) Execution times (in logarithmic scale) and speedup (and std) generating a dense connectome, taking and without taking into account the time spent for merging results from differenc CPU cores (required only in the CPU-based solution).*
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/probtrackx/tracts.png" width="50%">
 </figure>
 
-Coronal, sagittal and axial views comparing CPU-based and GPU-based frameworks performing probabilistic tractography and reconstructing some major white matter tracts. Each colour represents a different brain white matter tract. These paths are binarised versions of the path distributions after being thresholded at 0.5%.
+*Coronal, sagittal and axial views comparing CPU-based and GPU-based frameworks performing probabilistic tractography and reconstructing some major white matter tracts. Each colour represents a different brain white matter tract. These paths are binarised versions of the path distributions after being thresholded at 0.5%.*
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/probtrackx/connectome.png" width="50%">
 </figure>
 
-Path probability map from a vertex in the Motor Cortex. The map was extracted from dense connectome matrices reconstructed with CPU-based and GPU-based probabilistic tractography applications.
+*Path probability map from a vertex in the Motor Cortex. The map was extracted from dense connectome matrices reconstructed with CPU-based and GPU-based probabilistic tractography applications.*
 
 ## Speedup
 
