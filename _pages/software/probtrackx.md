@@ -16,6 +16,11 @@ For information about the functionality of the tool, see the [PROBTRACKX User Gu
 
 This page provides binary downloads of the GPU version of Probtrackx. 
 
+## Speedup
+
+GPU Probtrackx offers accelerations of *more than 200 times using a single GPU compared to 
+a single CPU core: 1 GPU ≈ 230 CPU cores.*
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/probtrackx/times_ptx.png" width="70%">
 </figure>
@@ -34,14 +39,10 @@ This page provides binary downloads of the GPU version of Probtrackx.
 
 *Path probability map from a vertex in the Motor Cortex. The map was extracted from dense connectome matrices reconstructed with CPU-based and GPU-based probabilistic tractography applications.*
 
-## Speedup
-
-GPU Probtrackx offers accelerations of *more than 200 times using a single GPU compared to 
-a single CPU core: 1 GPU ≈ 230 CPU cores.*
-
 ## Citation
 
 If you use Probtrackx GPU in publications, please cite [this paper](https://www.sciencedirect.com/science/article/pii/S1053811918321591):
+
 Hernandez-Fernandez M., Reguly I., Jbabdi S, Giles M, Smith S., Sotiropoulos S.N. 
 *Using GPUs to accelerate computational diffusion MRI: From microstructure estimation to tractography and connectomes.*
 **NeuroImage 188 (2019): 598-615**
