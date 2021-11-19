@@ -84,7 +84,7 @@ For instance, for initialising the first and third parameter of model-2 with the
 and File.txt containing a line for each model-2 parameter:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/initialization.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/initialization.png" width="70%">
 </figure>
 
 ## Specifying Fixed Parameters
@@ -106,13 +106,13 @@ For instance, in a model with bvals and bvecs as Common Fixed Parameters and S0 
 CommonFixed_params.txt containing:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/cfp.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/cfp.png" width="70%">
 </figure>
 
 And Fixed_params.txt containing:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/fixp.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/fixp.png" width="70%">
 </figure>
 
 
@@ -135,7 +135,7 @@ For instance, if we want to define the grid with different values for the first 
 and Grid.txt containing:
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/gridsearch.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/gridsearch.png" width="70%">
 </figure>
 
 The toolbox will try all the combinations of these parameter values.

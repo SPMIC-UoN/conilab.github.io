@@ -24,11 +24,11 @@ After compiling your model, a binary file called ``testFunctions_$modelname`` is
 This binary evaluates the model predicted signal and the partial derivatives provided by the user. It needs all the parameters, including the common fixed parameters and the fixed parameters.
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/testfunctions.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/testfunctions.png" width="70%">
 </figure>
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/testfunctions2.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot/testfunctions2.png" width="70%">
 </figure>
 
 It also returns the numerical partial derivatives (taking small steps for each parameter) for comparison.
