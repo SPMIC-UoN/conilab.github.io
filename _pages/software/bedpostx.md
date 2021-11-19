@@ -16,36 +16,6 @@ For information about the functionality of the tool, see the [BEDPOSTX User Guid
 
 This page provides binary downloads of the GPU version of Bedpostx. 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/software/bedpostx_times.png" width="70%">
-</figure>
-
-Execution times in logarithmic scale of a single CPU core and a single GPU (NVIDIA K80) fitting ball & sticks model in a whole dataset. The application fits the model in a low resolution dataset with 106,910 voxels and in a high resolution dataset with 684,203 voxels. Different number of diffusion measurements (36/72/108/145/181/218/254/291) and number of fibres (1/2/3 with 6/9/12 parameters) are showed.
-
-## Speedup
-
-GPU BedpostX offers accelerations of *more than 200 times using a single GPU compared to 
-a single CPU core: 1 GPU ≈ 200 CPU cores.*
-
-|Measurements	      | 36	 | 72	  | 108	  | 145	  | 181	  | 218	  | 254	  | 291
-|-------------------|------|------|-------|-------|-------|-------|-------|-------
-|Low-res 1 fibre	  | 96×	 | 145×	| 167×	| 175×	| 183×	| 195×	| 202×	| 196×
-|Low-res 2 fibres	  | 98×	 | 149×	| 174×	| 180×	| 193×	| 206×	| 217×	| 207×
-|Low-res 3 fibres	  | 92×	 | 144×	| 172×	| 195×	| 210×	| 225×	| 235×	| 220×
-|High-res 1 fibre	  | 99×	 | 148×	| 171×	| 180×	| 214×	| 225×	| 233×	| 227×
-|High-res 2 fibres	| 109× | 168×	| 196×	| 203×	| 215×	| 232×	| 238×	| 230×
-|High-res 3 fibres	| 96×	 | 163×	| 194×	| 201×	| 209×	| 223×	| 236×	| 221×
-
-Source code is distributed within FSL: FSL Wiki
-
-## Citation
-
-If you use Bedpostx GPU in publications, please cite [this paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061892):
-
-Hernández M, Guerrero GD, Cecilia JM, García JM, Inuggi A, Jbabdi S, Behrens TE, Sotiropoulos SN. 
-*Accelerating fibre orientation estimation from diffusion weighted magnetic resonance imaging using GPUs.*
-**PLoS One. 2013 Apr 29;8(4):e61892**
-
 ## Installation
 
  - Download the correct bedpostx_gpu file for your CUDA version
@@ -68,6 +38,34 @@ Hernández M, Guerrero GD, Cecilia JM, García JM, Inuggi A, Jbabdi S, Behrens T
  - [bedpostx_gpu_cuda_11.2 (supports Ampere)](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_11.2/bedpostx_gpu.zip)
 
 CUDA 11.3 or later version binaries will be supported within FSL installer starting from FSL 6.0.6
+
+## Speedup
+
+GPU BedpostX offers accelerations of *more than 200 times using a single GPU compared to 
+a single CPU core: 1 GPU ≈ 200 CPU cores.*
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/bedpostx_times.png" width="70%">
+</figure>
+
+*Execution times in logarithmic scale of a single CPU core and a single GPU (NVIDIA K80) fitting ball & sticks model in a whole dataset. The application fits the model in a low resolution dataset with 106,910 voxels and in a high resolution dataset with 684,203 voxels. Different number of diffusion measurements (36/72/108/145/181/218/254/291) and number of fibres (1/2/3 with 6/9/12 parameters) are showed.*
+
+|Measurements	      | 36	 | 72	  | 108	  | 145	  | 181	  | 218	  | 254	  | 291
+|-------------------|------|------|-------|-------|-------|-------|-------|-------
+|Low-res 1 fibre	  | 96×	 | 145×	| 167×	| 175×	| 183×	| 195×	| 202×	| 196×
+|Low-res 2 fibres	  | 98×	 | 149×	| 174×	| 180×	| 193×	| 206×	| 217×	| 207×
+|Low-res 3 fibres	  | 92×	 | 144×	| 172×	| 195×	| 210×	| 225×	| 235×	| 220×
+|High-res 1 fibre	  | 99×	 | 148×	| 171×	| 180×	| 214×	| 225×	| 233×	| 227×
+|High-res 2 fibres	| 109× | 168×	| 196×	| 203×	| 215×	| 232×	| 238×	| 230×
+|High-res 3 fibres	| 96×	 | 163×	| 194×	| 201×	| 209×	| 223×	| 236×	| 221×
+
+## Citation
+
+If you use Bedpostx GPU in publications, please cite [this paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061892):
+
+Hernández M, Guerrero GD, Cecilia JM, García JM, Inuggi A, Jbabdi S, Behrens TE, Sotiropoulos SN. 
+*Accelerating fibre orientation estimation from diffusion weighted magnetic resonance imaging using GPUs.*
+**PLoS One. 2013 Apr 29;8(4):e61892**
 
 ## Credits
 
