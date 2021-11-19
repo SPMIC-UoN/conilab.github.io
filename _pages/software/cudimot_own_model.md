@@ -177,3 +177,8 @@ To compile:
   make install
 
 Binaries files with the name of your model will be generated in ``$FSLDEVDIR/bin``
+
+# Fitting and debugging your model
+
+See separate pages on [fitting your model]({{ site.url }}{{ site.baseurl }}/software/cudimot_fitting) and 
+[debugging cuDIMOT]({{ site.url }}{{ site.baseurl }}/software/cudimot_debugging)

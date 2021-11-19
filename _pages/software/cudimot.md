@@ -37,7 +37,7 @@ The only required libraries are FSL (FMRIB Software Library) and CUDA toolkit.
 
 If you want to use the toolbox for implementing your own models you can download it here:
 
-[cudimot.zip]()
+[cudimot.zip](http://users.fmrib.ox.ac.uk/~moisesf/cudimot/cudimot.zip)
 
 ### Downloading individual cuDIMOT NODDI_Watson binaries and scripts
 
@@ -72,6 +72,9 @@ If you want to use the toolbox for implementing your own models you can download
 ## Implementing your own model
 
 [Read here how to use the tool for implementing your own model.]({{ site.url }}{{ site.baseurl }}/software/cudimot_own_model)
+
+Also see information on [fitting your model]({{ site.url }}{{ site.baseurl }}/software/cudimot_fitting) and 
+[debugging cuDIMOT]({{ site.url }}{{ site.baseurl }}/software/cudimot_debugging)
 
 ## Citation
 
