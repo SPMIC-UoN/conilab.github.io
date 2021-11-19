@@ -20,6 +20,8 @@ This page provides binary downloads of the GPU version of Bedpostx.
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/bedpostx_times.png" width="50%">
 </figure>
 
+Execution times in logarithmic scale of a single CPU core and a single GPU (NVIDIA K80) fitting ball & sticks model in a whole dataset. The application fits the model in a low resolution dataset with 106,910 voxels and in a high resolution dataset with 684,203 voxels. Different number of diffusion measurements (36/72/108/145/181/218/254/291) and number of fibres (1/2/3 with 6/9/12 parameters) are showed.
+
 ## Speedup
 
 GPU BedpostX offers accelerations of *more than 200 times using a single GPU compared to 
