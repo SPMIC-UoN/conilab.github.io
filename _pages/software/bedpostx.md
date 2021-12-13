@@ -26,16 +26,16 @@ This page provides binary downloads of the GPU version of Bedpostx.
 
 ### FSL 6.x FILES
 
- - [bedpostx_gpu_cuda_7.5](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_7.5/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_8.0](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_8.0/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_9.0](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_9.0/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_9.1](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_9.1/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_9.2](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_9.2/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_10.0](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_10.0/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_10.1](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_10.1/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_10.2](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_10.2/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_11.0 (supports Ampere)](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_11/bedpostx_gpu.zip)
- - [bedpostx_gpu_cuda_11.2 (supports Ampere)](http://users.fmrib.ox.ac.uk/~moisesf/Bedpostx_GPU/FSL_6/CUDA_11.2/bedpostx_gpu.zip)
+ - [bedpostx_gpu_cuda_7.5](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda7_5.zip)
+ - [bedpostx_gpu_cuda_8.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda8_0.zip)
+ - [bedpostx_gpu_cuda_9.0]https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_0.zip)
+ - [bedpostx_gpu_cuda_9.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_1.zip)
+ - [bedpostx_gpu_cuda_9.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_2.zip)
+ - [bedpostx_gpu_cuda_10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda10_0.zip)
+ - [bedpostx_gpu_cuda_10.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda10_1.zip)
+ - [bedpostx_gpu_cuda_10.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda10_2.zip)
+ - [bedpostx_gpu_cuda_11.0 (supports Ampere)](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda11_0.zip)
+ - [bedpostx_gpu_cuda_11.2 (supports Ampere)](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda11_2.zip)
 
 CUDA 11.3 or later version binaries will be supported within FSL installer starting from FSL 6.0.6
 

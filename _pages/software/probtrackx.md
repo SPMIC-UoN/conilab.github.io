@@ -25,13 +25,13 @@ This page provides binary downloads of the GPU version of Probtrackx.
 
 ### FSL 6.x FILES
 
- - [probtrackx_gpu_cuda_7.5](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_7.5/probtrackx2_gpu.zip)
- - [probtrackx_gpu_cuda_8.0](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_8.0/probtrackx2_gpu.zip)
- - [probtrackx_gpu_cuda_9.1](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_9.1/probtrackx2_gpu.zip)
- - [probtrackx_gpu_cuda_9.2](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_9.2/probtrackx2_gpu.zip)
- - [probtrackx_gpu_cuda_10.0](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_10.0/probtrackx2_gpu.zip)
- - [probtrackx_gpu_cuda_10.1](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_10.1/probtrackx2_gpu.zip)
- - [probtrackx_gpu_cuda_10.2](http://users.fmrib.ox.ac.uk/~moisesf/Probtrackx_GPU/FSL_6/CUDA_10.2/probtrackx2_gpu.zip)
+ - [probtrackx_gpu_cuda_7.5](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda7_5.zip)
+ - [probtrackx_gpu_cuda_8.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda8_0.zip)
+ - [probtrackx_gpu_cuda_9.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda9_1.zip)
+ - [probtrackx_gpu_cuda_9.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda9_2.zip)
+ - [probtrackx_gpu_cuda_10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda10_0.zip)
+ - [probtrackx_gpu_cuda_10.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda10_1.zip)
+ - [probtrackx_gpu_cuda_10.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/probtrackx2_gpu_cuda10_2.zip)
 
 Ampere architecture, and CUDA 11.x binaries will be supported within FSL installer starting from FSL 6.0.6
 
