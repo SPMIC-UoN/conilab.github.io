@@ -28,7 +28,7 @@ This page provides binary downloads of the GPU version of Bedpostx.
 
  - [bedpostx_gpu_cuda_7.5](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda7_5.zip)
  - [bedpostx_gpu_cuda_8.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda8_0.zip)
- - [bedpostx_gpu_cuda_9.0]https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_0.zip)
+ - [bedpostx_gpu_cuda_9.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_0.zip)
  - [bedpostx_gpu_cuda_9.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_1.zip)
  - [bedpostx_gpu_cuda_9.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda9_2.zip)
  - [bedpostx_gpu_cuda_10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/bedpostx_gpu_cuda10_0.zip)
