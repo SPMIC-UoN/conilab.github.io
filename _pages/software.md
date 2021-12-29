@@ -26,11 +26,11 @@ used by thousands of researchers in hundreds of institutions
 worldwide. These include:
 * [XTRACT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT){:target="_blank"},
   for automated tractography in the human and non-human primate brain
-* [Bedpostx / Bedpostx_gpu](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide#BEDPOSTX){:target="_blank"},
+* [Bedpostx / Bedpostx_gpu]({{ site.url }}{{ site.baseurl }}/software/bedpostx),
   for Bayesian estimation of WM fibre orientations from diffusion MRI
   data using a number of forward models
 * [Qboot](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide#qboot_-_Estimation_of_fibre_orientations_using_q-ball_ODFs_and_residual_bootstrap){:target="_blank"} for stochastic estimation of diffusion and fibre ODFs from diffusion MRI data
-* [Probtrackx / Probtrackx_gpu](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FDT/UserGuide#PROBTRACKX_-_probabilistic_tracking_with_crossing_fibres){:target="_blank"} for probabilistic tractography, connectivity fingerprinting and mapping
+* [Probtrackx / Probtrackx_gpu]({{ site.url }}{{ site.baseurl }}/software/probtrackx) for probabilistic tractography, connectivity fingerprinting and mapping
 * [Eddy](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/eddy){:target="_blank"}
 for distortion, outlier, motion correction
 * [Eddyqc](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/eddyqc/UsersGuide){:target="_blank"}
@@ -58,7 +58,7 @@ has been made with tissue microstructure models for diffusion MRI data
 in mind, but it can be used for any voxel-wise model of MRI data. 
 
 [CUDIMOT and precompiled binaries for NODDI-Watson and 
-NODDI-Bingham models](https://users.fmrib.ox.ac.uk/~moisesf/cudimot/index.html){:target="_blank"}
+NODDI-Bingham models]({{ site.url }}{{ site.baseurl }}/software/cudimot){:target="_blank"}
 are available.
 
 *[Lab contributors]({{ site.url }}{{ site.baseurl }}/team#alumni): Moises Hernandez-Fernandez, Stam Sotiropoulos*
