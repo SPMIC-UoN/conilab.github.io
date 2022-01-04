@@ -3,8 +3,8 @@
   description: ""
   authors: Sundaresan V, Arthofer C, Zamboni G, Dineen RA, Rothwell PM, Sotiropoulos SN, Auer DP, Tozer D, Markus HS, Miller KL, Dragonu I, Sprigg N, Alfaro-Almagro F, Jenkinson M, Griffanti L
   link:
-  url: https://www.frontiersin.org/articles/10.3389/fninf.2021.777828/abstract
-  display: Frontiers in Neuroinformatics (2022)
+    url: https://www.frontiersin.org/articles/10.3389/fninf.2021.777828/abstract
+    display: Frontiers in Neuroinformatics (2022)
   highlight: 0
 
 - title: "The Human Connectome Project: A Retrospective"
