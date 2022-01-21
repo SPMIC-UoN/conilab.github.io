@@ -3,7 +3,7 @@
   description: ""
   authors: Meng D, Mohammadi-Nejad A, Sotiropoulos SN, Auer DP
   link:
-    url:
+    url: https://doi.org/10.1111/ene.15251
     display: European Journal of Neurology (2022)
   highlight: 0
   
@@ -12,8 +12,8 @@
   description: ""
   authors: Sundaresan V, Arthofer C, Zamboni G, Dineen RA, Rothwell PM, Sotiropoulos SN, Auer DP, Tozer D, Markus HS, Miller KL, Dragonu I, Sprigg N, Alfaro-Almagro F, Jenkinson M, Griffanti L
   link:
-    url: https://www.frontiersin.org/articles/10.3389/fninf.2021.777828/abstract
-    display: Frontiers in Neuroinformatics (2022)
+    url: https://doi.org/10.3389/fninf.2021.777828
+    display: Frontiers in Neuroinformatics 15:777828 (2022)
   highlight: 0
 
 - title: "Long-term connectome analysis reveals reshaping of visual, spatial networks in a model with vascular dementia features"
