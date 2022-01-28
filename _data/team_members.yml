@@ -15,16 +15,9 @@
   researchgate: https://www.researchgate.net/profile/Stamatios_Sotiropoulos
   
   
-- name: 0
-  photo:
-  info:
-  number_educ:
-  external_sites: 
-
-
 - name: Yi Ming Lai 
   photo: yiming.jpg
-  info: Post-doctoral Research Associate, started 01/2020
+  info: Post-doctoral Researcher, started 01/2020
   email: pmzyl@exmail.nottingham.ac.uk
   number_educ: 3
   education1: BSc Mathematics, University of Oxford, UK 
@@ -51,17 +44,30 @@
 
 - name: Shaun Warrington
   photo: shaun.jpg
-  info: Post-doctoral Research Associate, started 10/2021
+  info: Post-doctoral Researcher, started 10/2021
   email: shaun.warrington@nottingham.ac.uk
   personalweb: https://swarrington1.github.io
   number_educ: 4
   education1: BSc Physics, University of Leicester, UK
   education2: MSc Clinical Sciences, Newcastle University, UK
-  education3: PhD, Brain Connectivity Mapping, University of Nottingham, UK
+  education3: PhD Brain Connectivity Mapping, University of Nottingham, UK
   education4: Funding Source ERC
   external_sites: 2
   orcid: https://orcid.org/0000-0002-7198-8162
   researchgate: https://www.researchgate.net/profile/Shaun_Warrington
+
+
+- name: Mohammed Amer
+  photo: mamer.jph
+  info: Post-doctoral Researcher, started 02/2022
+  email: mohammed.amer@nottingham.ac.uk
+  number_educ: 4
+  education1: BSc Pharmacy, Zagazig University, Egypt
+  education2: MSc Information Technology, University of Nottingham, Malaysia
+  education3: PhD Computer Science, University of Nottingham, Malaysia
+  education4: Funding Source ERC
+  external_sites: 1
+  google_scholar: https://scholar.google.com/citations?user=IGn2adcAAAAJ&hl=en
 
 
 - name: Jose Manzano Patron
