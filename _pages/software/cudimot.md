@@ -58,6 +58,7 @@ If you want to use the toolbox for implementing your own models you can download
  - [cudimot NODDI_Watson for CUDA 10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda10_0.zip)
  - [cudimot NODDI_Watson for CUDA 10.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda10_1.zip)
  - [cudimot NODDI_Watson for CUDA 10.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda10_2.zip)
+ - [cudimot NODDI_Watson for CUDA 11.1](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.1/NODDI_Watson_cuda11_1.zip)
 
  - You can also download cuDIMOT ``NODDI_Bingham`` binaries and scripts:
  - Please follow the same steps as for ``NODDI_Watson``, but using ``NODDI_Bingham`` files
@@ -68,6 +69,7 @@ If you want to use the toolbox for implementing your own models you can download
  - [cudimot NODDI_Bingham for CUDA 10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Bingham_cuda10_0.zip)
  - [cudimot NODDI_Bingham for CUDA 10.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Bingham_cuda10_1.zip)
  - [cudimot NODDI_Bingham for CUDA 10.2](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Bingham_cuda10_2.zip)
+ - [cudimot NODDI_Bingham for CUDA 11.1](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.1/NODDI_Bingham_cuda11.1.zip)
 
 ## Implementing your own model
 
