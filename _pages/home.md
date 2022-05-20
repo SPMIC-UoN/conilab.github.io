@@ -47,6 +47,9 @@ imaging technology and image processing platforms for exploring and understandin
 			</div>
 		<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider4.jpg" alt="Slide 7" />
+			</div>
+	    <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider9.jpg" alt="Slide 8" />
         </div>
 </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
