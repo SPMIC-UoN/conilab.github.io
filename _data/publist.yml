@@ -1,3 +1,21 @@
+- title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
+  image: dummy.png
+  description: ""
+  authors: Tewarie P, Prasse B, Meier J, Mandke K, Warrington S, Stam CJ, Brookes MJ, Mieghem PV, Sotiropoulos SN, Hillebrand A
+  link:
+    url: https://doi.org/10.1002/hbm.25967
+    display: Human Brain Mapping (2022)
+  highlight: 0
+
+- title: "The Developing Human Connectome Project Neonatal Data Release
+  image: dummy.png
+  description: ""
+  authors: Edwards AD, Rueckert D, Smith SM, Seada SA, Alansary A, Almalbis J, ..., Sotiropoulos SN, Steinweg JK, Teixeira RP, Tenev T, Tournier  JD, Tusor N, Uus A, Vecchiato K, Williams LZ, Wright R, Wurie J, Hajnal JV 
+  link:
+    url: https://doi.org/10.3389/fnins.2022.886772
+    display:Frontiers in Neuroscience (2022)
+  highlight: 0
+
 - title: "The Association Between Inadequate Sleep and Accelerated Brain Ageing"
   image: dummy.png
   description: ""
