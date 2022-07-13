@@ -38,10 +38,11 @@
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
   education3: Funding Source MRC & NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
-  external_sites: 3
+  external_sites: 4
   orcid: https://orcid.org/0000-0002-0710-6700
   researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
-  ukri: https://nottinghambrc.nihr.ac.uk/
+  nihr: https://nottinghambrc.nihr.ac.uk/
+  ukri: https://gtr.ukri.org/projects?ref=MR%2FW014491%2F1
   
 
 - name: Shaun Warrington, PhD
