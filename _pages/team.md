@@ -116,7 +116,7 @@ class="img-responsive" width="25%" style="float: left" /></a>
 	  {% endif %}
   {% if member.ukri  %}
 	  <div class="col-sm">
-	  	   <a href= "{{ member.ukric }}" target="_blank">
+	  	   <a href= "{{ member.ukri }}" target="_blank">
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/UKRI_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
