@@ -102,7 +102,13 @@ class="img-responsive" width="25%" style="float: left" /></a>
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/researchgate_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-  </div>
+     {% if member.erc  %}
+	  <div class="col-sm">
+	  	   <a href= "{{ member.erc }}" target="_blank">
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/ERC_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
+		  </div>
+	  {% endif %}
+</div>
   {% endif %}
   
 
