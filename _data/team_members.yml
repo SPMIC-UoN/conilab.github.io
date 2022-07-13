@@ -24,10 +24,10 @@
   education1: BSc Mathematics, University of Oxford, UK 
   education2: D.Phil. University of Oxford, UK 
   education3: Funding Source Wellcome Trust
-  external_sites: 2
+  external_sites: 3
   google_scholar: https://scholar.google.co.uk/citations?user=Itd_1TgAAAAJ&hl=en
   orcid: https://orcid.org/0000-0002-5397-8753
-
+  wt: https://wellcome.org/
 
   
 - name: Alireza Mohammadi-Nejad, PhD
@@ -38,10 +38,11 @@
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
   education3: Funding Source MRC & NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
-  external_sites: 2
+  external_sites: 3
   orcid: https://orcid.org/0000-0002-0710-6700
   researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
-
+  ukri: https://nottinghambrc.nihr.ac.uk/
+  
 
 - name: Shaun Warrington, PhD
   photo: shaun.jpg
@@ -100,6 +101,7 @@
   education2: MSc Artificial Intelligence, University of Madrid, Spain
   education3: Funding Source Precision Imaging Beacon, University of Nottingham
   external_sites: 0
+  uon: https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/index.aspx
 
 
   
@@ -110,7 +112,8 @@
   number_educ: 2
   education1: BSc Physics, University of Nottingham, UK
   education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
-  external_sites: 0
+  external_sites: 1
+  ukri: https://www.onbicdt.ox.ac.uk/
 
 
 
@@ -122,4 +125,5 @@
   education1: MSci Neuroscience, University of Nottingham, UK
   education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
   education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
-  external_sites: 0
+  external_sites: 1
+  ukri: https://more.bham.ac.uk/mrc-impact/
