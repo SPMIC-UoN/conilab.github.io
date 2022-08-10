@@ -54,6 +54,13 @@ If you want to use the toolbox for implementing your own models you can download
    a subpart of the dataset (this option can process the dataset very fast)
  - Requirements: NVIDIA GPU compute capability >= 3.0
 
+#### Version 0.2
+
+ - [cudimot NODDI_Watson for CUDA 9.2](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.2/NODDI_Watson_cuda9_2.tar.gz)
+ - [cudimot NODDI_Watson for CUDA 10.1](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.2/NODDI_Watson_cuda10_1.tar.gz)
+ - 
+#### Version 0.1
+
  - [cudimot NODDI_Watson for CUDA 9.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda9_1.zip)
  - [cudimot NODDI_Watson for CUDA 10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda10_0.zip)
  - [cudimot NODDI_Watson for CUDA 10.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda10_1.zip)
@@ -61,10 +68,19 @@ If you want to use the toolbox for implementing your own models you can download
  - [cudimot NODDI_Watson for CUDA 11.1](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.1/NODDI_Watson_cuda11_1.zip)
  - [cudimot NODDI_Watson for CUDA 11.3](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.1/NODDI_Watson_cuda11_3.zip)
 
+### NODDI_Bingham binaries and scripts
+
  - You can also download cuDIMOT ``NODDI_Bingham`` binaries and scripts:
  - Please follow the same steps as for ``NODDI_Watson``, but using ``NODDI_Bingham`` files
  - To fit the model use:
    ``$CUDIMOT/bin/Pipeline_NODDI_Bingham.sh [SubjectDirectory]``
+
+#### Version 0.2
+
+ - [cudimot NODDI_Bingham for CUDA 9.2](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.2/NODDI_Bingham_cuda9_2.tar.gz)
+ - [cudimot NODDI_Bingham for CUDA 10.1](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.2/NODDI_Bingham_cuda10_1.tar.gz)
+
+#### Version 0.1
 
  - [cudimot NODDI_Bingham for CUDA 9.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Bingham_cuda9_1.zip)
  - [cudimot NODDI_Bingham for CUDA 10.0](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Bingham_cuda10_0.zip)
