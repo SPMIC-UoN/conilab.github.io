@@ -58,7 +58,7 @@ If you want to use the toolbox for implementing your own models you can download
 
  - [cudimot NODDI_Watson for CUDA 9.2](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.2/NODDI_Watson_cuda9_2.tar.gz)
  - [cudimot NODDI_Watson for CUDA 10.1](https://github.com/SPMIC-UoN/cudimot/releases/download/v0.0.2/NODDI_Watson_cuda10_1.tar.gz)
- - 
+
 #### Version 0.1
 
  - [cudimot NODDI_Watson for CUDA 9.1](https://github.com/SPMIC-UoN/fdt/releases/download/2103.0/NODDI_Watson_cuda9_1.zip)
