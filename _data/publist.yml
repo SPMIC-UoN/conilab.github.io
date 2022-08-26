@@ -5,7 +5,7 @@
   link:
     url: https://doi.org/10.1101/2022.03.03.482776
     display: Science Advances (2022)
-  highlight: 0
+  highlight: 1
 
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
@@ -34,7 +34,7 @@
   authors: Ramduny J, Bastiani M, Huedepohl R, Sotiropoulos SN, Chechlacz M
   link:
     url: https://doi.org/10.1016/j.neurobiolaging.2022.02.005
-    display: Neurobiology of Aging 114: 1-14 (2022)
+    display: Neurobiology of Aging 114:1-14 (2022)
   highlight: 0
 
 
@@ -44,7 +44,7 @@
   authors: Meng D, Mohammadi-Nejad A, Sotiropoulos SN, Auer DP
   link:
     url: https://doi.org/10.1111/ene.15251
-    display: European Journal of Neurology 29: 1344-1353 (2022)
+    display: European Journal of Neurology 29:1344-1353 (2022)
   highlight: 0
 
 
@@ -54,7 +54,7 @@
   authors: Brosnan MB, Shalev N, Ramduny J, Sotiropoulos SN, Chechlacz M
   link:
     url: https://doi.org/10.1093/braincomms/fcac080
-    display: Brain Communications 4: fcac080 (2022)
+    display: Brain Communications 4:fcac080 (2022)
   highlight: 0
 
 
