@@ -1,3 +1,12 @@
+- title: "Concurrent mapping of brain ontogeny and phylogeny within a common space: standardised tractography and applications"
+  image:common_space.png
+  description: ""
+  authors: Warrington S, Thompson E, Bastiani M, Dubois J, Baxter L, Slater R, Jbabdi S, Mars RB, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.1101/2022.03.03.482776
+    display: Science Advances (2022)
+  highlight: 1
+
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
   image: dummy.png
   description: ""
@@ -22,7 +31,7 @@
   authors: Ramduny J, Bastiani M, Huedepohl R, Sotiropoulos SN, Chechlacz M
   link:
     url: https://doi.org/10.1016/j.neurobiolaging.2022.02.005
-    display: Neurobiology of Aging (2022)
+    display: Neurobiology of Aging 114: 1-14 (2022)
   highlight: 0
   
 - title: "Anticholinergic drugs and forebrain MRI changes in cognitively normal people and those with mild cognitive impairment"
@@ -31,7 +40,7 @@
   authors: Meng D, Mohammadi-Nejad A, Sotiropoulos SN, Auer DP
   link:
     url: https://doi.org/10.1111/ene.15251
-    display: European Journal of Neurology (2022)
+    display: European Journal of Neurology 29: 1344-1353 (2022)
   highlight: 0
 
 - title: "Right fronto-parietal networks mediate the neurocognitive benefits of enriched environments"
@@ -39,8 +48,8 @@
   description: ""
   authors: Brosnan MB, Shalev N, Ramduny J, Sotiropoulos SN, Chechlacz M
   link:
-    url: https://www.biorxiv.org/content/10.1101/2021.09.01.458571v1.abstract
-    display: Brain Communications (2022)
+    url: https://doi.org/10.1093/braincomms/fcac080
+    display: Brain Communications 4: fcac080 (2022)
   highlight: 0
   
 - title: "Automated Detection of Candidate Subjects with Cerebral Microbleeds using Machine Learning"
