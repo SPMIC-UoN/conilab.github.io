@@ -6,7 +6,6 @@
     url: https://doi.org/10.1101/2022.03.03.482776
     display: Science Advances (2022)
   highlight: 1
-  news2:
 
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
@@ -18,6 +17,7 @@
     display: Human Brain Mapping (2022)
   highlight: 0
 
+
 - title: "The Developing Human Connectome Project Neonatal Data Release"
   image: dummy.png
   description: ""
@@ -27,6 +27,7 @@
     display: Frontiers in Neuroscience (2022)
   highlight: 0
 
+
 - title: "The Association Between Inadequate Sleep and Accelerated Brain Ageing"
   image: dummy.png
   description: ""
@@ -35,7 +36,8 @@
     url: https://doi.org/10.1016/j.neurobiolaging.2022.02.005
     display: Neurobiology of Aging 114: 1-14 (2022)
   highlight: 0
-  
+
+
 - title: "Anticholinergic drugs and forebrain MRI changes in cognitively normal people and those with mild cognitive impairment"
   image: dummy.png
   description: ""
@@ -45,6 +47,7 @@
     display: European Journal of Neurology 29: 1344-1353 (2022)
   highlight: 0
 
+
 - title: "Right fronto-parietal networks mediate the neurocognitive benefits of enriched environments"
   image: dummy.png
   description: ""
@@ -53,7 +56,8 @@
     url: https://doi.org/10.1093/braincomms/fcac080
     display: Brain Communications 4: fcac080 (2022)
   highlight: 0
-  
+
+
 - title: "Automated Detection of Candidate Subjects with Cerebral Microbleeds using Machine Learning"
   image: dummy.png
   description: ""
@@ -62,6 +66,7 @@
     url: https://doi.org/10.3389/fninf.2021.777828
     display: Frontiers in Neuroinformatics 15:777828 (2022)
   highlight: 0
+
 
 - title: "Long-term connectome analysis reveals reshaping of visual, spatial networks in a model with vascular dementia features"
   image: dummy.png
@@ -72,6 +77,7 @@
     display: Stroke 53:1-11 (2022)
   highlight: 0
 
+
 - title: "The Human Connectome Project: A Retrospective"
   image: dummy.png
   description: ""
@@ -80,6 +86,7 @@
     url: https://doi.org/10.1016/j.neuroimage.2021.118543
     display: Neuroimage 244:118543 (2021)
   highlight: 0
+
 
 - title: "Modelling white matter in gyral blades as a continuous vector field"
   image: dummy.png
@@ -90,6 +97,7 @@
     display: Neuroimage 227:117693 (2021)
   highlight: 0
 
+
 - title: "Quantum Computing at the Frontiers of Biological Sciences"
   image: dummy.png
   description: ""
@@ -99,6 +107,7 @@
     display: Nature Methods 18:701-709 (2021)
   highlight: 0
 
+
 - title: "Uncertainty Modelling in Deep Learning for Safer Neuroimage Enhancement: Demonstration in Diffusion MRI."
   image: dummy.png
   description: ""
@@ -107,7 +116,8 @@
     url: https://doi.org/10.1016/j.neuroimage.2020.117366
     display: Neuroimage 225:117366 (2021)
   highlight: 0
-  
+
+
 - title: "Non-negative data-driven mapping of structural connections with application to the neonatal brain."
   image: nmf.jpg
   description: ""
@@ -116,7 +126,6 @@
     url: https://doi.org/10.1016/j.neuroimage.2020.117273
     display: Neuroimage 222:117273 (2020)
   highlight: 1
-  news2:
   
 - title: "XTRACT - Standardised protocols for automated tractography in the human and macaque brain."
   image: xtract.jpg
@@ -126,8 +135,6 @@
     url: https://doi.org/10.1016/j.neuroimage.2020.116923
     display:  Neuroimage 217:116923 (2020)
   highlight: 1
-  news2:
-
 
 - title: "The role of node dynamics in shaping emergent functional connectivity patterns in the brain."
   image: dummy.png
@@ -157,7 +164,6 @@
     url: https://doi.org/10.1002/nbm.4348
     display:  NMR in Biomedicine 33:e4348 (2020)
   highlight: 0
-  news2:
 
 - title: "Towards HCP-Style macaque connectomes: 24-Channel 3T multi-array coil, MRI sequences and preprocessing."
   image: dummy.png
