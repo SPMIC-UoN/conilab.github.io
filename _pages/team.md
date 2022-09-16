@@ -90,10 +90,10 @@ class="img-responsive" width="25%" style="float: left" /></a>
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/scopus_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-	  {% if member.publons  %}
+	  {% if member.wos  %}
 		  <div class="col-sm">
-		  <a href= "{{ member.publons }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/publons_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
+		  <a href= "{{ member.wos }}" target="_blank">
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/wos_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.researchgate  %}
