@@ -31,7 +31,7 @@ See full list of [journal papers](#journal-papers-full-list) and
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="45%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <br> <br>
+  <br>
   <p><strong><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
  </div>
