@@ -6,6 +6,7 @@
     url: https://doi.org/10.1101/2022.03.03.482776
     display: Science Advances (2022)
   highlight: 1
+  news1: 1
 
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
@@ -466,6 +467,7 @@
     url: https://doi.org/10.1016/j.neuroimage.2015.10.019
     display: Neuroimage 125:1063-1078 (2016)
   highlight: 1
+  news1: 1
 
 
 - title: "A probabilistic atlas of the cerebellar white matter."
