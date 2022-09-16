@@ -6,8 +6,7 @@
     url: https://doi.org/10.1101/2022.03.03.482776
     display: Science Advances (2022)
   highlight: 1
-  news1: 1
-
+  extra_br: 1
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
   image: dummy.png
@@ -127,6 +126,8 @@
     url: https://doi.org/10.1016/j.neuroimage.2020.117273
     display: Neuroimage 222:117273 (2020)
   highlight: 1
+  extra_br: 1
+
   
 - title: "XTRACT - Standardised protocols for automated tractography in the human and macaque brain."
   image: xtract.jpg
@@ -136,6 +137,8 @@
     url: https://doi.org/10.1016/j.neuroimage.2020.116923
     display:  Neuroimage 217:116923 (2020)
   highlight: 1
+  extra_br: 1
+
 
 - title: "The role of node dynamics in shaping emergent functional connectivity patterns in the brain."
   image: dummy.png
@@ -467,7 +470,7 @@
     url: https://doi.org/10.1016/j.neuroimage.2015.10.019
     display: Neuroimage 125:1063-1078 (2016)
   highlight: 1
-  news1: 1
+  extra_br: 1
 
 
 - title: "A probabilistic atlas of the cerebellar white matter."
@@ -528,6 +531,8 @@
     url: https://doi.org/10.1038/nn.4134
     display: Nature Neuroscience 18:1546-55 (2015)
   highlight: 1
+  extra_br: 1
+
 
 
 - title: "Normalisation of brain connectivity through compensatory behaviour, despite congenital hand absence."
