@@ -142,6 +142,17 @@ All [WM atlases](https://github.com/swarrington1/WM_atlases){:target="_blank"} a
 
 <hr>
 
+### RubiX
+<!--figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cudimot.jpg" width="15%">
+</figure-->
+
+Resolutions Unified for Bayesian Inference of Crossings
+
+[Further information and binaries]({{ site.url }}{{ site.baseurl }}/software/rubix){:target="_blank"}
+
+*[Lab contributors]({{ site.url }}{{ site.baseurl }}/team#alumni): Moises Hernandez-Fernandez, Stam Sotiropoulos*
+<hr>
 
 ### Large Collaborative Projects
 <figure>
