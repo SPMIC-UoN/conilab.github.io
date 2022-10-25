@@ -16,7 +16,7 @@ The trade-off between signal-to-noise ratio (SNR) and spatial specificity govern
 resolution in magnetic resonance imaging (MRI); diffusion-weighted (DW) MRI is no exception. Images of lower 
 resolution have higher signal to noise ratio, but also more partial volume artifacts. 
 
-The RubiX (Resolutions Unified for Bayesian Inference of Crossings) generative model represents a data-fusion framework, where data from all resolutions are combined through a spatial and a local model. Priors on the model parameters impose some spatial regularization constraints that assist model identifiability when the high resolution data are of very low SNR. The generative model is inverted using Markov-Chain Monte-Carlo (MCMC) and the posterior distribution of the parameters is estimated. We show that fiber crossings at the highest spatial resolution can be inferred more robustly compared to an approach that uses only high-resolution data, when both approaches are matched for acquisition time.
+The RubiX (Resolutions Unified for Bayesian Inference of Crossings) generative model represents a data-fusion framework, where data from all resolutions are combined through a spatial and a local model. Priors on the model parameters impose some spatial regularization constraints that assist model identifiability when the high resolution data are of very low SNR. The generative model is inverted using Markov-Chain Monte-Carlo (MCMC) and the posterior distribution of the parameters is estimated. 
 
 The only required libraries are FSL (FMRIB Software Library) and CUDA toolkit.
 **You will need an NVIDIA GPU.***
@@ -29,8 +29,12 @@ The only required libraries are FSL (FMRIB Software Library) and CUDA toolkit.
 
 ## Citation
 
-If you use RubiX in publications, please cite [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767112/):
+If you use RubiX in publications, please cite of the following:
 
 Sotiropoulos SN, Jbabdi S, Andersson JL, Woolrich MW, Ugurbil K, Behrens TE. 
 *"RubiX: combining spatial resolutions for Bayesian inference of crossing fibers in diffusion MRI."*
-**IEEE Trans Med Imaging. 2013 Jun;32(6):969-82. doi: 10.1109/TMI.2012.2231873. Epub 2013 Jan 25. PMID: 23362247; PMCID: PMC3767112.**
+**IEEE Trans Med Imaging. 2013; 32(6):969-82. doi: 10.1109/TMI.2012.2231873.**
+
+Sotiropoulos SN, Hernández-Fernández M, Vu AT, Andersson JL, Moeller S, Yacoub E, Lenglet C, Ugurbil K, Behrens TEJ, Jbabdi S
+*"Fusion in diffusion MRI for improved fibre orientation estimation: An application to the 3T and 7T data of the Human Connectome Project."*
+**Neuroimage. 2016; 134:396-409. doi: 10.1016/j.neuroimage.2016.04.014.**
