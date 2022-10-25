@@ -3,10 +3,19 @@
   description: ""
   authors: Warrington S, Thompson E, Bastiani M, Dubois J, Baxter L, Slater R, Jbabdi S, Mars RB, Sotiropoulos SN
   link:
-    url: https://doi.org/10.1101/2022.03.03.482776
-    display: Science Advances (2022)
+    url: https://doi.org/10.1126/sciadv.abq2022
+    display: Science Advances 8:42 (2022)
   highlight: 1
   extra_br: 1
+
+- title: "Mapping brain endophenotypes associated with idiopathic pulmonary fibrosis genetic risk"
+  image: common_space2.jpg
+  description: ""
+  authors: Mohammadi-Nejad AR, Allen RJ, Kraven LM, Leavy OC, Jenkins G, Wain LV, Auer DP, Sotiropoulos SN
+  link:
+    url: https://www.medrxiv.org/content/10.1101/2022.03.25.22272932v1
+    display: eBioMedicine (2022)
+  highlight: 0
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
   image: dummy.png
@@ -14,7 +23,7 @@
   authors: Tewarie P, Prasse B, Meier J, Mandke K, Warrington S, Stam CJ, Brookes MJ, Mieghem PV, Sotiropoulos SN, Hillebrand A
   link:
     url: https://doi.org/10.1002/hbm.25967
-    display: Human Brain Mapping (2022)
+    display: Human Brain Mapping 43: 4475-4491 (2022)
   highlight: 0
 
 - title: "Medio-dorsal thalamic dysconnectivity in chronic knee pain: A possible mechanism for negative affect and pain comorbidity"

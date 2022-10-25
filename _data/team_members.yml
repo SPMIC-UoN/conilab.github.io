@@ -15,35 +15,6 @@
   researchgate: https://www.researchgate.net/profile/Stamatios_Sotiropoulos
   erc: https://erc.europa.eu
   
-  
-- name: Yi Ming Lai, DPhil
-  photo: yiming.jpg
-  info: Post-doctoral Researcher, started 01/2020
-  email: pmzyl@exmail.nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Mathematics, University of Oxford, UK 
-  education2: D.Phil. University of Oxford, UK 
-  education3: Funding Source Wellcome Trust
-  external_sites: 3
-  google_scholar: https://scholar.google.co.uk/citations?user=Itd_1TgAAAAJ&hl=en
-  orcid: https://orcid.org/0000-0002-5397-8753
-  wt: https://wellcome.org/
-
-  
-- name: Alireza Mohammadi-Nejad, PhD
-  photo: ali.jpg
-  info: Post-doctoral Researcher, started 05/2018
-  email: mszam12@exmail.nottingham.ac.uk
-  number_educ: 3
-  education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
-  education2: PhD Pattern Recognition, University of Tehran, Iran
-  education3: Funding Source MRC & NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
-  external_sites: 4
-  orcid: https://orcid.org/0000-0002-0710-6700
-  researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
-  nihr: https://nottinghambrc.nihr.ac.uk/
-  ukri: https://gtr.ukri.org/projects?ref=MR%2FW014491%2F1
-  
 
 - name: Shaun Warrington, PhD
   photo: shaun.jpg
@@ -60,6 +31,21 @@
   google_scholar: https://scholar.google.com/citations?user=V6Er3zAAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Shaun_Warrington
   erc: https://erc.europa.eu
+
+
+- name: Alireza Mohammadi-Nejad, PhD
+  photo: ali.jpg
+  info: Post-doctoral Researcher, started 05/2018
+  email: mszam12@exmail.nottingham.ac.uk
+  number_educ: 3
+  education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
+  education2: PhD Pattern Recognition, University of Tehran, Iran
+  education3: Funding Source MRC & NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
+  external_sites: 4
+  orcid: https://orcid.org/0000-0002-0710-6700
+  researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
+  nihr: https://nottinghambrc.nihr.ac.uk/
+  ukri: https://gtr.ukri.org/projects?ref=MR%2FW014491%2F1
   
 
 
