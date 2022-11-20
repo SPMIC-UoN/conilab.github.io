@@ -13,8 +13,8 @@
   description: ""
   authors: Mohammadi-Nejad AR, Allen RJ, Kraven LM, Leavy OC, Jenkins G, Wain LV, Auer DP, Sotiropoulos SN
   link:
-    url: https://www.medrxiv.org/content/10.1101/2022.03.25.22272932v1
-    display: eBioMedicine (2022)
+    url: https://doi.org/10.1016/j.ebiom.2022.104356
+    display: eBioMedicine 86 (2022)
   highlight: 1
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
