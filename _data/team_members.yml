@@ -46,22 +46,6 @@
   researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
   nihr: https://nottinghambrc.nihr.ac.uk/
   ukri: https://gtr.ukri.org/projects?ref=MR%2FW014491%2F1
-  
-
-
-- name: Mohammed Amer, PhD
-  photo: mamer.jpg
-  info: Post-doctoral Researcher, started 02/2022
-  email: mohammed.amer@nottingham.ac.uk
-  number_educ: 4
-  education1: BSc Pharmacy, Zagazig University, Egypt
-  education2: MSc Information Technology, University of Nottingham, Malaysia
-  education3: PhD Computer Science, University of Nottingham, Malaysia
-  education4: Funding Source ERC
-  external_sites: 3
-  orcid: https://orcid.org/0000-0003-0694-4144
-  google_scholar: https://scholar.google.com/citations?user=IGn2adcAAAAJ&hl=en
-  erc: https://erc.europa.eu
 
 
 
@@ -81,26 +65,16 @@
 
 - name: Jose Manzano Patron
   photo: jose.jpg
-  info: PhD Student, started 02/2019
+  info: Post-doctoral Researcher, started 01/2023
   email: jose.manzanopatron1@nottingham.ac.uk
-  number_educ: 3
+  number_educ: 4
   education1: BSc Electronic Engineering, University of Madrid, Spain
   education2: MSc Artificial Intelligence, University of Madrid, Spain
-  education3: Funding Source Precision Imaging Beacon, University of Nottingham
-  external_sites: 1
-  uon: https://www.nottingham.ac.uk/research/beacons-of-excellence/precision-imaging/index.aspx
-
-
-  
-- name: Asante Ntata
-  photo: asante.jpg
-  info: PhD Student, started 10/2019
-  email: asante.ntata@nottingham.ac.uk
-  number_educ: 2
-  education1: BSc Physics, University of Nottingham, UK
-  education2: Funding Source EPSRC | <a href="http://www.onbicdt.ox.ac.uk" target="_blank">ONBI CDT</a>
-  external_sites: 1
-  ukri: https://www.onbicdt.ox.ac.uk/
+  education3: PhD Medical Imaging, University of Nottingham, UK
+  education4: Funding Source ERC
+  external_sites: 2
+  orcid: https://orcid.org/0000-0002-0040-1926
+  erc: https://erc.europa.eu
 
 
 

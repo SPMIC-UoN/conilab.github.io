@@ -1,16 +1,16 @@
-- name: Moises Hernandez-Fernandez
-  photo: moises.jpg
-  info: PhD student (2013-2017)
-  now: Engineer at NVIDIA, USA (post-doc at University of Pennsylvania, USA)
+- name: Asante Ntata
+  photo: asante.jpg
+  info: PhD student (2019-2022)
+  now: Researcher, UK National Physics Laboratory
   number_educ: 1
-  education1: 
+  education1:
 
-- name: Jivesh Ramduny
-  photo: jivesh.jpg
-  info: Reseach Assistant (2018-2019)
-  now: PhD student at Trinity College Dublin, Ireland
+- name:  Mohammed Amer
+  photo: mamer.jpg
+  info: Post-doctoral Researcher (2022)
+  now: Deep-Learning Engineer, Fujitsu Research Europe
   number_educ: 1
-  education1: 
+  education1:
 
 - name: Elinor Thompson
   photo: ellie.jpg
@@ -18,3 +18,17 @@
   now: Post-doctoral Researcher, Centre for Medical Image Computing, University College London
   number_educ: 1
   education1:
+
+- name: Jivesh Ramduny
+  photo: jivesh.jpg
+  info: Reseach Assistant (2018-2019)
+  now: PhD student at Trinity College Dublin, Ireland
+  number_educ: 1
+  education1:
+
+- name: Moises Hernandez-Fernandez
+  photo: moises.jpg
+  info: PhD student (2013-2017)
+  now: Engineer at NVIDIA, USA (post-doc at University of Pennsylvania, USA)
+  number_educ: 1
+  education1: 
