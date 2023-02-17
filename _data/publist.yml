@@ -1,9 +1,9 @@
-- title: "QuNex - An Integrative Platform for Reproducible Neuroimaging Analytics"
+- title: "QuNex - An integrative platform for reproducible neuroimaging analytics"
   image: dummy.png
   description: ""
   authors: Ji JL, Demsar J, Fonteneau C, Tamayo Z, Kraljic A, Matkovic A, Purg N, Helmer M, Warrington S, Winkler A, Zerbi V, Coalson TS , Glasser MF, Harms M, Sotiropoulos SN, Murray JD, Anticevic A, Repovs G
  link:
-  url: http://doi.org
+  url: https://doi.org
   display: Frontiers in Neuroinformatics (2023)
   highlight: 0
  
@@ -27,6 +27,7 @@
     url: https://doi.org/10.1016/j.ebiom.2022.104356
     display: eBioMedicine 86 (2022)
   highlight: 1
+
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
   image: dummy.png
