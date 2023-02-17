@@ -1,3 +1,13 @@
+- title: "QuNex -An Integrative Platform for Reproducible Neuroimaging Analytics
+  image: dummy.png
+  description: ""
+  authors: JL Ji, J Demsar, C Fonteneau, Z Tamayo, A Kraljic, A Matkovic, N Purg, M Helmer, S Warrington, A Winkler, V Zerbi, TS Coalson, MF Glasser, M Harms, SN Sotiropoulos, JD Murray, A Anticevic, G Repovs
+  link:	   
+  url:
+  display: Frontiers in Neuroinformatics (2023)
+  highlight: 0
+ 
+
 - title: "Concurrent mapping of brain ontogeny and phylogeny within a common space: standardised tractography and applications"
   image: common_space2.jpg
   description: ""
@@ -7,6 +17,18 @@
     display: Science Advances 8:42 (2022)
   highlight: 1
   extra_br: 1
+
+
+- title: "Concurrent mapping of brain ontogeny and phylogeny within a common space: standardised tractography and applications"
+  image: common_space2.jpg
+  description: ""
+  authors: Warrington S, Thompson E, Bastiani M, Dubois J, Baxter L, Slater R, Jbabdi S, Mars RB, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.1126/sciadv.abq2022
+    display: Science Advances 8:42 (2022)
+  highlight: 1
+  extra_br: 1
+
 
 - title: "Mapping brain endophenotypes associated with idiopathic pulmonary fibrosis genetic risk"
   image: BWAS.jpg
@@ -25,6 +47,7 @@
     url: https://doi.org/10.1002/hbm.25967
     display: Human Brain Mapping 43:4475-4491 (2022)
   highlight: 0
+
 
 - title: "Medio-dorsal thalamic dysconnectivity in chronic knee pain: A possible mechanism for negative affect and pain comorbidity"
   image: dummy.png
