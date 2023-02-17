@@ -19,17 +19,6 @@
   extra_br: 1
 
 
-- title: "Concurrent mapping of brain ontogeny and phylogeny within a common space: standardised tractography and applications"
-  image: common_space2.jpg
-  description: ""
-  authors: Warrington S, Thompson E, Bastiani M, Dubois J, Baxter L, Slater R, Jbabdi S, Mars RB, Sotiropoulos SN
-  link:
-    url: https://doi.org/10.1126/sciadv.abq2022
-    display: Science Advances 8:42 (2022)
-  highlight: 1
-  extra_br: 1
-
-
 - title: "Mapping brain endophenotypes associated with idiopathic pulmonary fibrosis genetic risk"
   image: BWAS.jpg
   description: ""
