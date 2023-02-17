@@ -1,13 +1,3 @@
-- title: "QuNex - An integrative platform for reproducible neuroimaging analytics"
-  image: dummy.png
-  description: ""
-  authors: Ji JL, Demsar J, Fonteneau C, Tamayo Z, Kraljic A, Matkovic A, Purg N, Helmer M, Warrington S, Winkler A, Zerbi V, Coalson TS , Glasser MF, Harms M, Sotiropoulos SN, Murray JD, Anticevic A, Repovs G
- link: 
-  url: 
-  display: Frontiers in Neuroinformatics (2023)
-  highlight: 0
-
-
 - title: "Concurrent mapping of brain ontogeny and phylogeny within a common space: standardised tractography and applications"
   image: common_space2.jpg
   description: ""
