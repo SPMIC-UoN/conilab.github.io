@@ -1,3 +1,13 @@
+- title: "Non-reversibility outperforms functional connectivity in characterisation of brain states in MEG data"
+  image: dummy.png
+  description: ""
+  authors: Tewarie PK, Hindriks R, Lai YM, Sotiropoulos SN, Kringelbach M, Deco G
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2023.120186
+    display: Neuroimage 120186 (2023)
+  highlight: 0
+
+
 - title: "QuNex - An integrative platform for reproducible neuroimaging analytics"
   image: dummy.png
   description: ""
