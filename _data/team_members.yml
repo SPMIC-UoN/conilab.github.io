@@ -19,7 +19,7 @@
 - name: Shaun Warrington, PhD
   photo: shaun.jpg
   info: Post-doctoral Researcher, started 10/2021
-  email: shaun.warrington@nottingham.ac.uk
+  email: shaun.warrington1@nottingham.ac.uk
   personalweb: https://swarrington1.github.io
   number_educ: 4
   education1: BSc Physics, University of Leicester, UK
@@ -49,9 +49,24 @@
 
 
 
-- name: Stephania Assimopoulos
+- name: Jose Manzano Patron, PhD
+  photo: jose.jpg
+  info: Post-doctoral Researcher, started 01/2023
+  email: jose.manzanopatron1@nottingham.ac.uk
+  number_educ: 4
+  education1: BSc Electronic Engineering, University of Madrid, Spain
+  education2: MSc Artificial Intelligence, University of Madrid, Spain
+  education3: PhD Medical Imaging, University of Nottingham, UK
+  education4: Funding Source ERC
+  external_sites: 2
+  orcid: https://orcid.org/0000-0002-0040-1926
+  erc: https://erc.europa.eu
+
+
+
+- name: Stephania Assimopoulos, PhD
   photo: stephania.jpg
-  info: Post-doctoral Researcher, started 7/2022
+  info: Post-doctoral Researcher, started 07/2022
   email: stephania.assimopoulos@nottingham.ac.uk
   number_educ: 3
   education1: HBSc Physics, University of Toronto, Canada
@@ -63,17 +78,17 @@
 
 
 
-- name: Jose Manzano Patron
-  photo: jose.jpg
-  info: Post-doctoral Researcher, started 01/2023
-  email: jose.manzanopatron1@nottingham.ac.uk
+- name: Andrea Torchi, PhD
+  photo: andrea.jpg
+  info: Post-doctoral Researcher, started 07/2023
+  email: andrea.torchi@nottingham.ac.uk
   number_educ: 4
-  education1: BSc Electronic Engineering, University of Madrid, Spain
-  education2: MSc Artificial Intelligence, University of Madrid, Spain
-  education3: PhD Medical Imaging, University of Nottingham, UK
+  education1: BSc Physics, University of Genoa, Italy
+  education2: MSc Physics, University of Genoa, Italy
+  education3: PhD Magnetic Resonance Spectroscopy, University of Nottingham, UK
   education4: Funding Source ERC
   external_sites: 2
-  orcid: https://orcid.org/0000-0002-0040-1926
+  orcid: https://orcid.org/0000-0003-3209-055X
   erc: https://erc.europa.eu
 
 
