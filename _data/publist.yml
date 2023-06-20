@@ -1,3 +1,23 @@
+- title: "A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches"
+  image: dummy.png
+  description: ""
+  authors: Warrington S, Ntata A, Mougin O, Campbell J, Torchi A, Craig M, Alfaro-Almagro F, Miller KL, Morgan PS, Jenkinson M, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.1101/2023.06.16.545260
+    display: (2023)
+  highlight: 0
+
+
+- title: "Automated Detection of Cerebral Microbleeds on MR images using Knowledge Distillation Framework"
+  image: dummy.png
+  description: ""
+  authors: Sundaresan V, Arthofer C, Zamboni G, Murchison AG, Dineen RA, Rothwell PM, Auer DP, Wang C, Miller KM, Tendler BC, Alfaro-Almagro F, Sotiropoulos SN, Sprigg N, Griffanti L, Jenkinson M
+  link:
+    url: https://doi.org/10.3389/fninf.2023.1204186
+    display: Frontiers in Neuroinformatics 17 (2023)
+  highlight: 0
+
+
 - title: "Non-reversibility outperforms functional connectivity in characterisation of brain states in MEG data"
   image: dummy.png
   description: ""
@@ -13,8 +33,8 @@
   description: ""
   authors: Ji JL, Demsar J, Fonteneau C, Tamayo Z, Kraljic A, Matkovic A, Purg N, Helmer M, Warrington S, Winkler A, Zerbi V, Coalson TS , Glasser MF, Harms M, Sotiropoulos SN, Murray JD, Anticevic A, Repovs G
   link:
-    url: https://www.biorxiv.org/content/10.1101/2022.06.03.494750v3
-    display: Frontiers in Neuroinformatics (2023)
+    url: https://doi.org/10.3389/fninf.2023.1104508
+    display: Frontiers in Neuroinformatics 17 (2023)
   highlight: 0
 
 
