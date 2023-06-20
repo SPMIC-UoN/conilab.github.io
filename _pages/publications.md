@@ -71,15 +71,15 @@ See full list of [journal papers](#journal-papers-full-list) and
 ## Book Chapters
 
 Probabilistic tractography  <br />
-<em> G Girard, DB Aydogan, F Dell'Acqua, A Leemans, M Descoteaux, SN Sotiropoulos</em><br />
-To appear In Handbook of Tractography, Elsevier, 2023</a>
+<em>Girard G, Aydogan DB, Dell'Acqua F, Leemans A, Descoteaux M, Sotiropoulos SN</em><br />
+<i>To appear</i> In Handbook of Tractography, Elsevier, 2023
 
 Connectivity and Connectomics <br />
-<em> A Zalesky, SN Sotiropoulos, S Jbabdi, A Fornito</em><br />
-To appear In Handbook of Tractography, Elsevier, 2023</a>
+<em>Zalesky A, Sotiropoulos SN, Jbabdi S, Fornito A</em><br />
+<i>To appear</i> In Handbook of Tractography, Elsevier, 2023
 
 MR diffusion tractography  <br />
-<em> TEJ Behrens, SN Sotiropoulos, S Jbabdi</em><br />
+<em> Behrens TEJ, Sotiropoulos SN, Jbabdi S</em><br />
 <a href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"
 target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
 
