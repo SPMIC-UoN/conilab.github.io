@@ -2,12 +2,12 @@
 <div class="well">
 <h4>News</h4>
 
-  <a class="twitter-timeline" data-theme="light"
+  <a class="twitter-timeline" data-height="500" data-theme="light"
   href="https://twitter.com/SNSotiropoulos?ref_src=twsrc%5Etfw">Tweets
   by SNSotiropoulos</a> <script async
   src="https://platform.twitter.com/widgets.js"
   charset="utf-8"></script>
-  
+<p></p>  
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
 <p>{{ article.headline }}</p>
