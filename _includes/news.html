@@ -2,13 +2,16 @@
 <div class="well">
 <h4>News</h4>
 
+  <a class="twitter-timeline" data-theme="light"
+  href="https://twitter.com/SNSotiropoulos?ref_src=twsrc%5Etfw">Tweets
+  by SNSotiropoulos</a> <script async
+  src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"></script>
+  
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
 <p>{{ article.headline }}</p>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-
-  <a href="https://twitter.com/intent/tweet?button_hashtag=SNSotiropoulos&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-related="SPMIC_UoN,SWarringtonMRI" data-show-count="false">Tweet #SNSotiropoulos</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 </div>
