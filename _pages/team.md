@@ -111,7 +111,7 @@ class="img-responsive" width="25%" style="float: left" /></a>
 	  {% if member.linkedin  %}
 		  <div class="col-sm">
 		  <a href= "{{ member.linkedin }}" target="_blank">
-		  <img src="{{ site.url }}{{ site.baseurl }}/images/linked_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
+		  <img src="{{ site.url }}{{ site.baseurl }}/images/linkedin_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		</div>
 	  {% endif %}
 	  {% if member.erc  %}
