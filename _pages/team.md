@@ -102,37 +102,37 @@ class="img-responsive" width="25%" style="float: left" /></a>
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/researchgate_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-  {% if member.twitter  %}
+	  {% if member.twitter  %}
 		  <div class="col-sm">
 		  <a href= "{{ member.twitter }}" target="_blank">
 		  <img src="{{ site.url }}{{ site.baseurl }}/images/twitter_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		</div>
 	  {% endif %}
-	{% if member.erc  %}
+	  {% if member.erc  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.erc }}" target="_blank">
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/ERC_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-  {% if member.uon  %}
+	  {% if member.uon  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.uon }}" target="_blank">
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/UoN_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-  {% if member.ukri  %}
+	  {% if member.ukri  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.ukri }}" target="_blank">
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/UKRI_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-{% if member.wt  %}
+	  {% if member.wt  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.wt }}" target="_blank">
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/WT_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
-{% if member.nihr  %}
+	  {% if member.nihr  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.nihr }}" target="_blank">
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/NIHR_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
