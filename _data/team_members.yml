@@ -7,12 +7,13 @@
   education2: MSc Biomedical Engineering, <a href="https://cse.umn.edu/bme" target="_blank">University of Minnesota</a>, USA
   education3: PhD Neuroimage Analysis, <a href="https://www.nottingham.ac.uk/research/groups/spmic" target="_blank"> University of Nottingham</a>, UK
   education4: Postdoc <a href="https://www.win.ox.ac.uk" target="_blank">FMRIB Centre</a>, University of Oxford, UK
-  external_sites: 6
+  external_sites: 7
   google_scholar: https://scholar.google.com/citations?user=9p2f6vUAAAAJ&hl=en
   orcid: https://orcid.org/0000-0003-4735-5776
   wos: https://www.webofscience.com/wos/author/record/1671747
   scopus: https://www.scopus.com/authid/detail.uri?authorId=16234548300
   researchgate: https://www.researchgate.net/profile/Stamatios_Sotiropoulos
+  twitter: https://twitter.com/SNSotiropoulos
   erc: https://erc.europa.eu
   
 
@@ -26,10 +27,11 @@
   education2: MSc Clinical Sciences, Newcastle University, UK
   education3: PhD Brain Connectivity Mapping, University of Nottingham, UK
   education4: Funding Source ERC
-  external_sites: 4
+  external_sites: 5
   orcid: https://orcid.org/0000-0002-7198-8162
   google_scholar: https://scholar.google.com/citations?user=V6Er3zAAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Shaun_Warrington
+  twitter: https://twitter.com/SWarringtonMRI
   erc: https://erc.europa.eu
 
 
@@ -41,9 +43,11 @@
   education1: BSc Electrical and Computer Engineering, University of Tehran, Iran
   education2: PhD Pattern Recognition, University of Tehran, Iran
   education3: Funding Source MRC & NIHR | <a href="https://nottinghambrc.nihr.ac.uk" target="_blank">Nottingham BRC</a>
-  external_sites: 4
+  external_sites: 6
   orcid: https://orcid.org/0000-0002-0710-6700
+  google_scholar: https://scholar.google.com/citations?user=bS0XzpMAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Ali-Reza_Mohammadi-Nejad
+  twitter: https://twitter.com/alirezamnk
   nihr: https://nottinghambrc.nihr.ac.uk/
   ukri: https://gtr.ukri.org/projects?ref=MR%2FW014491%2F1
 
@@ -58,8 +62,9 @@
   education2: MSc Artificial Intelligence, University of Madrid, Spain
   education3: PhD Medical Imaging, University of Nottingham, UK
   education4: Funding Source ERC
-  external_sites: 2
+  external_sites: 3
   orcid: https://orcid.org/0000-0002-0040-1926
+  https://twitter.com/josepemanzano
   erc: https://erc.europa.eu
 
 
@@ -72,8 +77,9 @@
   education1: HBSc Physics, University of Toronto, Canada
   education2: PhD Medical Biophysics, University of Toronto, Canada
   education3: Funding Source ERC
-  external_sites: 2
+  external_sites: 3
   orcid: https://orcid.org/0000-0002-7321-6297
+  https://twitter.com/SAssimopoulos
   erc: https://erc.europa.eu
 
 
@@ -87,7 +93,7 @@
   education2: MSc Physics, University of Genoa, Italy
   education3: PhD Magnetic Resonance Spectroscopy, University of Nottingham, UK
   education4: Funding Source ERC
-  external_sites: 2
+  external_sites: 3
   orcid: https://orcid.org/0000-0003-3209-055X
   erc: https://erc.europa.eu
 
@@ -101,5 +107,6 @@
   education1: MSci Neuroscience, University of Nottingham, UK
   education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
   education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
-  external_sites: 1
+  external_sites: 2
+  twitter: https://twitter.com/jennahanmer
   ukri: https://more.bham.ac.uk/mrc-impact/
