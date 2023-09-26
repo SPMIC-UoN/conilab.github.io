@@ -111,3 +111,25 @@
   external_sites: 2
   twitter: https://twitter.com/jennahanmer
   ukri: https://more.bham.ac.uk/mrc-impact/
+
+
+- name: Francesco D'Antonio
+  photo: francesco.jpg
+  info: PhD Student, started 10/2023
+  email: francesco.dantonio@nottingham.ac.uk
+  number_educ: 2
+  education1: BSc Physics, University of Oxford, UK
+  education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
+  external_sites: 1
+  twitter:
+
+
+- name: Adnan Jinnah 
+  photo: francesco.jpg
+  info: PhD Student, started 10/2023
+  email: adnan.jinnah@nottingham.ac.uk
+  number_educ: 1
+  education1: MSCi Physics with Computing, Durham University, UK
+  external_sites: 1
+  twitter:
+
