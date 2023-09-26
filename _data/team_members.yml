@@ -120,9 +120,9 @@
   number_educ: 3
   education1: BSc Physics, University of Oxford, UK
   education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
-  education3: Funding Source GE Healthcare/UoN
+  education3: Funding Source GE Healthcare & UoN
   external_sites: 1
-     twitter:
+  twitter: 
 
 
 - name: Adnan Jinnah 
@@ -133,5 +133,4 @@
   education1: MSCi Physics with Computer Science, Durham University, UK
   education2: Funding Source UoN
   external_sites: 1
-  twitter:
-
+  twitter: 
