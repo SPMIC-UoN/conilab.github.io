@@ -11,8 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-See full list of [journal papers](#journal-papers-full-list), 
-[book chapters](#book-chapters) and [PhD theses](#phd-theses) or go to
+See full list of [journal papers](#journal-papers-full-list), [book chapters](#book-chapters) and [PhD theses](#phd-theses) or go to
 [Pubmed Search](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Sotiropoulos+SN+[au]+)+|+(Sotiropoulos+Stamatios+[au])){:target="_blank"}.
 
 {% assign number_printed = 0 %}
