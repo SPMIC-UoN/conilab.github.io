@@ -53,6 +53,7 @@ If you want to use the toolbox for implementing your own models you can download
  - If you have several GPUs, you can use the option ``-NJOBS X`` to create X different GPUs jobs, each one for processing 
    a subpart of the dataset (this option can process the dataset very fast)
  - Requirements: NVIDIA GPU compute capability >= 3.0
+ - Cuda 12 binaries require FSL 6.0.6 or later. ``$FSLDIR/lib`` and the Cuda 12 libraries must be in ``LD_LIBRARY_PATH``
 
 #### Version 0.2
 
