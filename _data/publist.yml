@@ -6,7 +6,17 @@
     url: https://doi.org/10.1101/2023.07.24.550348
     display: (2023)
   highlight: 0
-  
+
+
+- title: "The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques"
+  image: dummy.png
+  description: ""
+  authors: Howell AM, Warrington S, Fontenau C, Cho YT, Sotiropoulos SN, Murray JD, Anticevic A
+  link:
+    url: https://doi.org/10.1101/2023.07.22.550168
+    display: (2023)
+  highlight: 0
+    
 
 - title: "A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches"
   image: dummy.png
@@ -17,6 +27,16 @@
     display: (2023)
   highlight: 0
 
+
+- title: "On stability of Canonical Correlation Analysis and Partial Least Squares with application to brain-behavior associations"
+  image: dummy.png
+  description: ""
+  authors: Helmer M, Warrington S, Mohammadi-Nejad AR, Ji JL, Howell A, Rosand B, Anticevic A, Sotiropoulos SN, Murray JD
+  link:
+    url: https://doi.org/10.1101/2020.08.25.265546
+    display: (2023)
+  highlight: 0
+  
 
 - title: "Automated Detection of Cerebral Microbleeds on MR images using Knowledge Distillation Framework"
   image: dummy.png
