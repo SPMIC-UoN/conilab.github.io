@@ -117,7 +117,8 @@ Brain connectivity mapping with diffusion MRI across individuals and species <br
 
 Examining structural and functional connectivity change in animal models of cerebrovascular disease <br/>
 <em> Gerard Hall (supervised by T. Farr, S. N. Sotiropoulos) </em> <br/>
-PhD University of Nottingham, 2021
+<a href="https://eprints.nottingham.ac.uk/65800" target="_blank">PhD
+University of Nottingham </a>, 2021
 
 
 Mapping connections in the neonatal brain with magnetic resonance imaging <br/>
