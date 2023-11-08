@@ -1,3 +1,13 @@
+- title: "Denoising Diffusion MRI: Considerations and implications for analysis"
+  image: dummy.png
+  description: ""
+  authors: Manzano-Patron JP, Moeller S, Andersson JLR, Ugurbil K, Yacoub E, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.1101/2023.07.24.550348
+    display: (2023)
+  highlight: 0
+  
+
 - title: "A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches"
   image: dummy.png
   description: ""
