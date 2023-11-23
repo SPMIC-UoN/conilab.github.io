@@ -743,3 +743,22 @@
     display: Neuroimage 49:2444-56 (2010)
   highlight: 0
 
+
+- title: "A regularized two-tensor model fit to low angular resolution diffusion images using basis directions"
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Bai L, Morgan PS, Auer DP, Constantinescu CS, Tench CR.
+  link:
+    url: https://doi.org/10.1002/jmri.21380
+    display: Journal of Magnetic Resonance Imaging 28:199-209 (2008)
+  highlight: 0
+
+
+- title: "Assessing the direct effects of deep brain stimulation using embedded axon models"
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Steinmetz PN.
+  link:
+    url: https://doi.org/10.1088/1741-2560/4/2/011
+    display: Journal of Neural Engineering 4:107 (2007)
+  highlight: 0
