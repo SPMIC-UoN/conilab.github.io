@@ -56,14 +56,14 @@ See full list of [journal papers](#journal-papers-full-list), [book chapters](#b
 
 
 ## Journal Papers Full list
-
+<ol>
 {% for publi in site.data.publist %}
-
+<li>
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}" target="_blank">{{ publi.link.display }}</a>
-
+</li>
 {% endfor %}
-
+</ol>
 <p> &nbsp; </p>
 
 
