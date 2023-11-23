@@ -54,9 +54,9 @@ See full list of [journal papers](#journal-papers-full-list), [book chapters](#b
 
 <p> &nbsp; </p>
 
-
+<style> li { padding: 10px 0px 0px; } </style>
 ## Journal Papers Full list
-<ol style="margin-bottom: 25px">
+<ol>
 {% for publi in site.data.publist %}
 <li>
   {{ publi.title }} <br />
