@@ -1,3 +1,13 @@
+- title: "The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques"
+  image: dummy.png
+  description: ""
+  authors: Howell AM, Warrington S, Fontenau C, Cho YT, Sotiropoulos SN, Murray JD, Anticevic A
+  link:
+    url: https://doi.org/10.1101/2023.07.22.550168
+    display: (2024)
+  highlight: 0
+    
+
 - title: "Denoising Diffusion MRI: Considerations and implications for analysis"
   image: dummy.png
   description: ""
@@ -18,23 +28,13 @@
   highlight: 0
 
 
-- title: "The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques"
-  image: dummy.png
-  description: ""
-  authors: Howell AM, Warrington S, Fontenau C, Cho YT, Sotiropoulos SN, Murray JD, Anticevic A
-  link:
-    url: https://doi.org/10.1101/2023.07.22.550168
-    display: (2023)
-  highlight: 0
-    
-
 - title: "A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches"
   image: dummy.png
   description: ""
   authors: Warrington S, Ntata A, Mougin O, Campbell J, Torchi A, Craig M, Alfaro-Almagro F, Miller KL, Morgan PS, Jenkinson M, Sotiropoulos SN
   link:
-    url: https://doi.org/10.1101/2023.06.16.545260
-    display: (2023)
+    url: https://doi.org/10.1162/imag_a_00042
+    display: Imaging Neuroscience (2023)
   highlight: 0
 
 
@@ -44,7 +44,7 @@
   authors: Helmer M, Warrington S, Mohammadi-Nejad AR, Ji JL, Howell A, Rosand B, Anticevic A, Sotiropoulos SN, Murray JD
   link:
     url: https://doi.org/10.1101/2020.08.25.265546
-    display: (2023)
+    display: Communications Biology (2023)
   highlight: 0
   
 
