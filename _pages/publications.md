@@ -68,72 +68,72 @@ See full list of [journal papers](#journal-papers-full-list), [book chapters](#b
 
 
 ## Book Chapters
-
-Probabilistic tractography  <br />
+<ol>
+<li>Probabilistic tractography  <br />
 <em>Girard G, Aydogan DB, Dell'Acqua F, Leemans A, Descoteaux M, Sotiropoulos SN</em><br />
-<i>To appear</i> In Handbook of Tractography, Elsevier, 2023
+<i>To appear</i> In Handbook of Tractography, Elsevier, 2024 </li>
 
-Connectivity and Connectomics <br />
+<li>Connectivity and Connectomics <br />
 <em>Zalesky A, Sotiropoulos SN, Jbabdi S, Fornito A</em><br />
-<i>To appear</i> In Handbook of Tractography, Elsevier, 2023
+<i>To appear</i> In Handbook of Tractography, Elsevier, 2024 </li>
 
-MR diffusion tractography  <br />
+<li>MR diffusion tractography  <br />
 <em> Behrens TEJ, Sotiropoulos SN, Jbabdi S</em><br />
 <a href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"
-target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
+target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a></li>
 
 
-Mapping connections in humans and non-human primates: aspirations and challenges for diffusion imaging <br />
+<li>Mapping connections in humans and non-human primates: aspirations and challenges for diffusion imaging <br />
 <em>Van Essen DC, Jbabdi S, Sotiropoulos SN, Chen C, Dikranian K,
 Coalson T, Harwell H, Behrens TE, Glasser MF</em><br />
 <a href="https://www.elsevier.com/books/diffusion-mri/johansen-berg/978-0-12-396460-1"
-target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a>
-
+target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to in-vivo neuroanatomy, Academic Press, 2013</a></li>
+</ol>
 
 <p> &nbsp; </p>
 
 
 ## PhD Theses
-
-On noise, uncertainty and inference for computational diffusion MRI <br/>
+<ol>
+<li>On noise, uncertainty and inference for computational diffusion MRI <br/>
 <em> Jose Pedro Manzano-Patron (supervised by: S. N. Sotiropoulos, T. Kypraios) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/74189" target="_blank">PhD University of Nottingham </a>, 2023
+<a href="https://eprints.nottingham.ac.uk/74189" target="_blank">PhD University of Nottingham </a>, 2023</li>
 
 
-The numerical solution of neural field models posed on realistic cortical domains <br/>
+<li>The numerical solution of neural field models posed on realistic cortical domains <br/>
 <em> Sammy Petros (supervised by: S. Coombes, S. N. Sotiropoulos, P. Houston) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/72417" target="_blank">PhD University of Nottingham </a>, 2023
+<a href="https://eprints.nottingham.ac.uk/72417" target="_blank">PhD University of Nottingham </a>, 2023</li>
 
 
-On harmonisation of brain MRI data across scanners and sites <br/>
+<li>On harmonisation of brain MRI data across scanners and sites <br/>
 <em> Asante Ntata (supervised by: S. N. Sotiropoulos, O. Mougin) </em> <br/>
-PhD University of Nottingham, 2023
+PhD University of Nottingham, 2023</li>
 
 
-Brain connectivity mapping with diffusion MRI across individuals and species <br/>
+<li>Brain connectivity mapping with diffusion MRI across individuals and species <br/>
 <em> Shaun Warrington (supervised by: S. N. Sotiropoulos) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/65487" target="_blank">PhD University of Nottingham </a>, 2021
+<a href="https://eprints.nottingham.ac.uk/65487" target="_blank">PhD University of Nottingham </a>, 2021</li>
 
 
-Examining structural and functional connectivity change in animal models of cerebrovascular disease <br/>
+<li>Examining structural and functional connectivity change in animal models of cerebrovascular disease <br/>
 <em> Gerard Hall (supervised by T. Farr, S. N. Sotiropoulos) </em> <br/>
 <a href="https://eprints.nottingham.ac.uk/65800" target="_blank">PhD
-University of Nottingham </a>, 2021
+University of Nottingham </a>, 2021</li>
 
 
-Mapping connections in the neonatal brain with magnetic resonance imaging <br/>
+<li>Mapping connections in the neonatal brain with magnetic resonance imaging <br/>
 <em> Elinor Thompson (supervised by: S. N. Sotiropoulos, M. Bastiani) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/64848" target="_blank">PhD University of Nottingham </a>, 2021
+<a href="https://eprints.nottingham.ac.uk/64848" target="_blank">PhD University of Nottingham </a>, 2021</li>
 
 
-Simulating Brain Resting-State Activity What Matters? <br/>
+<li>Simulating Brain Resting-State Activity What Matters? <br/>
 <em> Jonathan Hadida (supervised by: M. Woolrich, S. N. Sotiropoulos, S. Jbabdi) </em> <br/>
-<a href="https://ora.ox.ac.uk/objects/uuid:5abd962a-b798-4530-947a-24eeafd568f3" target="_blank">DPhil University of Oxford</a>, 2018
+<a href="https://ora.ox.ac.uk/objects/uuid:5abd962a-b798-4530-947a-24eeafd568f3" target="_blank">DPhil University of Oxford</a>, 2018</li>
 
 
-Accelerating computational diffusion MRI using Graphics Processing Units  <br/>
+<li>Accelerating computational diffusion MRI using Graphics Processing Units  <br/>
 <em> Moises Hernandez-Fernandez (supervised by: S. N. Sotiropoulos, M. Giles, S. Smith </em> <br/>
-<a href="https://ora.ox.ac.uk/objects/uuid:a0ac63bc-bdd4-4d77-9344-d631e4d4297a" target="_blank">DPhil University of Oxford</a>, 2017
+<a href="https://ora.ox.ac.uk/objects/uuid:a0ac63bc-bdd4-4d77-9344-d631e4d4297a" target="_blank">DPhil University of Oxford</a>, 2017</li>
 
 
 <p> &nbsp; </p>
