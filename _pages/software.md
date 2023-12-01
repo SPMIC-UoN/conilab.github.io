@@ -156,6 +156,13 @@ Resolutions Unified for Bayesian Inference of Crossings
 
 ### Large Collaborative Projects
 <figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cmc_logo.jpg" width="20%">
+</figure>
+* We are major partners in the NIH-funded
+[Centre for Mesoscale Connectomics](https://www.mesoscale-connectivity.org/){:target="_blank"}
+(CMC).
+
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_logo.jpg" width="20%">
 </figure>
 * We have been major partners in the NIH-funded
