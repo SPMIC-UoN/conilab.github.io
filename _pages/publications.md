@@ -107,7 +107,7 @@ target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to i
 
 <li>On harmonisation of brain MRI data across scanners and sites <br/>
 <em> Asante Ntata (supervised by: S. N. Sotiropoulos, O. Mougin) </em> <br/>
-PhD University of Nottingham, 2023</li>
+<a href="https://eprints.nottingham.ac.uk/74417/" target="_blank">PhD University of Nottingham </a>, 2023</li>
 
 
 <li>Brain connectivity mapping with diffusion MRI across individuals and species <br/>

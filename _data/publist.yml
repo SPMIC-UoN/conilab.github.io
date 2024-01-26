@@ -6,16 +6,6 @@
     url: https://doi.org/10.1101/2023.07.22.550168
     display: (2024)
   highlight: 0
-    
-
-- title: "Denoising Diffusion MRI: Considerations and implications for analysis"
-  image: dummy.png
-  description: ""
-  authors: Manzano-Patron JP, Moeller S, Andersson JLR, Ugurbil K, Yacoub E, Sotiropoulos SN
-  link:
-    url: https://doi.org/10.1162/imag_a_00060
-    display: Imaging Neuroscience (2023)
-  highlight: 0
 
 
 - title: "Generalising XTRACT Tractography Protocols Across Common Macaque Brain Templates"
@@ -24,17 +14,7 @@
   authors: Assimopoulos S, Warrington S, Bryant KL, Pszczolkowski S, Jbabdi S, Mars RB, Sotiropoulos SN
   link:
     url: https://doi.org
-    display: (2023)
-  highlight: 0
-
-
-- title: "A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches"
-  image: dummy.png
-  description: ""
-  authors: Warrington S, Ntata A, Mougin O, Campbell J, Torchi A, Craig M, Alfaro-Almagro F, Miller KL, Morgan PS, Jenkinson M, Sotiropoulos SN
-  link:
-    url: https://doi.org/10.1162/imag_a_00042
-    display: Imaging Neuroscience (2023)
+    display: Brain Structure and Function (2024)
   highlight: 0
 
 
@@ -44,9 +24,29 @@
   authors: Helmer M, Warrington S, Mohammadi-Nejad AR, Ji JL, Howell A, Rosand B, Anticevic A, Sotiropoulos SN, Murray JD
   link:
     url: https://doi.org/10.1101/2020.08.25.265546
-    display: Communications Biology (2023)
+    display: Communications Biology (2024)
   highlight: 0
   
+
+- title: "Denoising Diffusion MRI: Considerations and implications for analysis"
+  image: dummy.png
+  description: ""
+  authors: Manzano-Patron JP, Moeller S, Andersson JLR, Ugurbil K, Yacoub E, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.1162/imag_a_00060
+    display: Imaging Neuroscience 2 (2024)
+  highlight: 0
+
+
+- title: "A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches"
+  image: dummy.png
+  description: ""
+  authors: Warrington S, Ntata A, Mougin O, Campbell J, Torchi A, Craig M, Alfaro-Almagro F, Miller KL, Morgan PS, Jenkinson M, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.1162/imag_a_00042
+    display: Imaging Neuroscience 1 (2023)
+  highlight: 0
+
 
 - title: "Automated Detection of Cerebral Microbleeds on MR images using Knowledge Distillation Framework"
   image: dummy.png
