@@ -8,12 +8,22 @@
   highlight: 0
 
 
+- title: "Objective QC for diffusion MRI data: artefact detection using normative modelling"
+  image: dummy.png
+  description: ""
+  authors: Cirstian R, Forde NJ, Andersson JLR, Sotiropoulos SN, Beckmann CF, Marquand AF
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.06.30.546837v2
+    display: (2024)
+  highlight: 0
+
+
 - title: "Generalising XTRACT Tractography Protocols Across Common Macaque Brain Templates"
   image: dummy.png
   description: ""
   authors: Assimopoulos S, Warrington S, Bryant KL, Pszczolkowski S, Jbabdi S, Mars RB, Sotiropoulos SN
   link:
-    url: https://doi.org
+    url: https://doi.org/10.1007/s00429-024-02760-0
     display: Brain Structure and Function (2024)
   highlight: 0
 
