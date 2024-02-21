@@ -8,6 +8,16 @@
   highlight: 0
 
 
+- title: "Personalized circuit modeling captures variation in cortical functional connectivity"
+  image: dummy.png
+  description: ""
+  authors: Cooper RA, Demirtas M, Burt JB, Howell AM, Ji JL, Repovs G, Sotiropoulos SN, Anticevic A, Murray JD
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.02.19.581085v1
+    display: (2024)
+  highlight: 0
+
+
 - title: "Objective QC for diffusion MRI data: artefact detection using normative modelling"
   image: dummy.png
   description: ""
@@ -16,7 +26,7 @@
     url: https://www.biorxiv.org/content/10.1101/2023.06.30.546837v2
     display: (2024)
   highlight: 0
-
+  
 
 - title: "Generalising XTRACT Tractography Protocols Across Common Macaque Brain Templates"
   image: dummy.png
@@ -33,8 +43,8 @@
   description: ""
   authors: Helmer M, Warrington S, Mohammadi-Nejad AR, Ji JL, Howell A, Rosand B, Anticevic A, Sotiropoulos SN, Murray JD
   link:
-    url: https://doi.org/10.1101/2020.08.25.265546
-    display: Communications Biology (2024)
+    url: https://doi.org/10.1038/s42003-024-05869-4
+    display: Communications Biology 7: 217 (2024)
   highlight: 0
   
 
