@@ -1,11 +1,4 @@
-- title: "The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques"
-  image: dummy.png
-  description: ""
-  authors: Howell AM, Warrington S, Fontenau C, Cho YT, Sotiropoulos SN, Murray JD, Anticevic A
-  link:
-    url: https://doi.org/10.1101/2023.07.22.550168
-    display: (2024)
-  highlight: 0
+
 
 
 - title: "Personalized circuit modeling captures variation in cortical functional connectivity"
@@ -25,6 +18,16 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/2023.06.30.546837v2
     display: (2024)
+  highlight: 0
+
+
+- title: "The spatial extent of anatomical connections within the thalamus varies across the cortical hierarchy in humans and macaques"
+  image: dummy.png
+  description: ""
+  authors: Howell AM, Warrington S, Fontenau C, Cho YT, Sotiropoulos SN, Murray JD, Anticevic A
+  link:
+    url: https://doi.org/10.7554/eLife.95018.1
+    display: eLife 13:RP95018 (2024)
   highlight: 0
   
 
