@@ -1,28 +1,36 @@
 - name: Asante Ntata
   photo: asante.jpg
   info: PhD student (2019-2022)
-  now: Researcher, UK National Physics Laboratory
+  now: Researcher, National Physics Laboratory, UK
   number_educ: 1
   education1:
 
 - name:  Mohammed Amer
   photo: mamer.jpg
   info: Post-doctoral Researcher (2022)
-  now: Deep-Learning Engineer, Fujitsu Research Europe
+  now: Deep-Learning Engineer, Fujitsu Research Europe, UK
   number_educ: 1
   education1:
 
+- name: Matteo Bastiani
+  photo: matteo.jpg
+  info: Research Fellow (2019-2021)
+  now: Senior Data Analyst, Expedia Group, Switzerland
+email: matteo.bastiani1@nottingham.ac.uk
+  number_educ: 1
+  education1:
+  
 - name: Elinor Thompson
   photo: ellie.jpg
   info: PhD student (2017-2021)
-  now: Post-doctoral Researcher, Centre for Medical Image Computing, University College London
+  now: Post-doctoral Researcher, Centre for Medical Image Computing, University College London, UK
   number_educ: 1
   education1:
 
 - name: Jivesh Ramduny
   photo: jivesh.jpg
   info: Reseach Assistant (2018-2019)
-  now: PhD student at Trinity College Dublin, Ireland
+  now: Post-Doctoral Researcher, Yale University, USA
   number_educ: 1
   education1:
 
