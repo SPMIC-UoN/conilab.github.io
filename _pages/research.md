@@ -62,12 +62,12 @@ connectivity (even across species) that can be linked to the functional organisa
 </figure>
 * We are major partners in the NIH-funded
 [Centre for Mesoscale Connectomics](https://www.mesoscale-connectivity.org/){:target="_blank"}
-(CMC).
+(CMC). This aims to push the boundaries for NHP and human MRI acquisitions at ultra-high fied (10.5T) and link MRI with meso/micro-scale connectivity measurements (chemical tracing and whole-brain microscopy).
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="15%">
 </figure>
-* We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre](https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme.
+* We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre](https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme, for bridging state-of-the-art imaging technologies with clinical research and translational applications.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_logo.jpg" width="20%">
