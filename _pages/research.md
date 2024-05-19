@@ -51,7 +51,7 @@ connectivity (even across species) that can be linked to the functional organisa
 
 ### Large Collaborative Projects
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" width="5%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" width="10%">
 </figure>
 * We are leading the ERC-funded
 [NeuroMetrology programme](https://cordis.europa.eu/project/id/101000969/){:target="_blank"}.
@@ -65,7 +65,7 @@ connectivity (even across species) that can be linked to the functional organisa
 (CMC).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="5%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="10%">
 </figure>
 * We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre](https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme.
 
