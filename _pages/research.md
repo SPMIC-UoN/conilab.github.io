@@ -67,7 +67,7 @@ connectivity (even across species) that can be linked to the functional organisa
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="5%">
 </figure>
-* We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre] (https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme.
+* We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre](https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme.
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_logo.jpg" width="20%">
