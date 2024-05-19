@@ -65,7 +65,7 @@ connectivity (even across species) that can be linked to the functional organisa
 (CMC).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="10%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="15%">
 </figure>
 * We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre](https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme.
 
