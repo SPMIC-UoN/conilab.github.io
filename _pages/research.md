@@ -54,7 +54,7 @@ connectivity (even across species) that can be linked to the functional organisa
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" width="10%">
 </figure>
 * We are leading the ERC-funded
-[NeuroMetrology programme](https://cordis.europa.eu/project/id/101000969/){:target="_blank"}.
+[NeuroMetrology programme](https://cordis.europa.eu/project/id/101000969/){:target="_blank"}, which establishes measurement principles for brain connectivity estimates, including increased accuracy, precision mapping and establishing references.
 
 
 <figure>
