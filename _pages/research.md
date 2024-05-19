@@ -47,5 +47,63 @@ Through collaborations with basic and clinical neuroscientists, we use brain con
 organisation and re-organisation (e.g. due to plasticity or non-invasive neuromodulation). We also work on extracting patterns of
 connectivity (even across species) that can be linked to the functional organisation of the brain. Such connectivity patterns have been used in collaboration with neuro-surgeons for pre-surgical planning and identification of efficacious targets for surgical interventions.
 
+<hr>
 
-<p> &nbsp; </p>
+### Current and Past Large Collaborative Projects
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" width="30%">
+</figure>
+* We are leading the ERC-funded
+[NeuroMetrology] programme (https://cordis.europa.eu/project/id/101000969/){:target="_blank"}.
+
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/cmc_logo.jpg" width="20%">
+</figure>
+* We are major partners in the NIH-funded
+[Centre for Mesoscale Connectomics](https://www.mesoscale-connectivity.org/){:target="_blank"}
+(CMC).
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/BRC_logo.jpg" width="30%">
+</figure>
+* We are major contributors to the NIHR-funded [Nottingham Biomedical Research Centre] (https://nottinghambrc.nihr.ac.uk/){:target="_blank"} and the Magnetic Resonance and Precision Imaging theme.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/hcp_logo.jpg" width="20%">
+</figure>
+* We have been major partners in the NIH-funded
+[Human Connectome Project](https://www.humanconnectome.org/){:target="_blank"}
+(HCP), contributing to both the [HCP processing pipelines](https://github.com/Washington-University/HCPpipelines){:target="_blank"} and the public data
+releases (*1,200 young adult subjects* with cutting-edge data quality and
+multiple neuroimaging modalities).
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/dhcp_logo.jpg" width="20%">
+</figure>
+* We have been major partners in the ERC-funded [developing
+Human Connectome Project](http://www.developingconnectome.org){:target="_blank"}
+(dHCP), leading the
+[dHCP diffusion MRI processing pipelines](https://git.fmrib.ox.ac.uk/matteob/dHCP_neo_dMRI_pipeline_release){:target="_blank"} development
+and contributing to the public data releases (*500 neonates*, 37-44
+weeks post-conception age, with structural, functional and diffusion
+MRI acquired).
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/ukbiobank_logo.jpg" width="20%">
+</figure>
+* Our tools have been used in the diffusion MRI processing for
+  generation of *imaging-derived phenotypes (IDPs)* from the data of
+  the population-level
+  [UK Biobank Imaging](https://imaging.ukbiobank.ac.uk){:target="_blank"}
+  study, which scans *100,000 individuals* with 6 neuroimaging
+  modalities (T1w, T2w-FLAIR, SWI, dMRI, resting-state fMRI, task fMRI).
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/software/qunex.jpg" width="10%">
+</figure>
+* We are collaborating with the [Anticevic](https://medicine.yale.edu/lab/anticevic){:target="_blank"} and [Repovs](http://mblab.si/){:target="_blank"}  labs in the
+  development of the [QuNex](https://qunex.yale.edu){:target="_blank"}
+  integrative environment for neuroimage processing and analysis.
+
+
