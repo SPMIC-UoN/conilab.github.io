@@ -138,6 +138,12 @@ class="img-responsive" width="25%" style="float: left" /></a>
 	       <img src="{{ site.url }}{{ site.baseurl }}/images/WT_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
 		  </div>
 	  {% endif %}
+	  {% if member.nih  %}
+	  <div class="col-sm">
+	  	   <a href= "{{ member.wt }}" target="_blank">
+	       <img src="{{ site.url }}{{ site.baseurl }}/images/NIH_icon.jpg" style="float: left; width:5%; margin-right:5%"></a>
+		  </div>
+	  {% endif %}
 	  {% if member.nihr  %}
 	  <div class="col-sm">
 	  	   <a href= "{{ member.nihr }}" target="_blank">
