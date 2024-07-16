@@ -71,13 +71,13 @@ See full list of [journal papers](#journal-papers-full-list), [book chapters](#b
 <ol>
 <li>Probabilistic Tractography  <br />
 <em>Girard G, Aydogan DB, Dell'Acqua F, Leemans A, Descoteaux M, Sotiropoulos SN</em><br />
-<a href=https://shop.elsevier.com/books/handbook-of-diffusion-mr-tractography/dellacqua/978-0-12-818894-1"
-target=_blank">In Handbook of Diffusion MR Tractography, Academic Press, 2024</a></li>
+<a href="https://shop.elsevier.com/books/handbook-of-diffusion-mr-tractography/dellacqua/978-0-12-818894-1"
+target="_blank">In Handbook of Diffusion MR Tractography, Academic Press, 2024</a></li>
 
 <li>Connectivity and Connectomics <br />
 <em>Zalesky A, Sotiropoulos SN, Jbabdi S, Fornito A</em><br />
-<a href=https://shop.elsevier.com/books/handbook-of-diffusion-mr-tractography/dellacqua/978-0-12-818894-1"
-target=_blank">In Handbook of Diffusion MR Tractography, Academic Press, 2024</a></li>
+<a href="https://shop.elsevier.com/books/handbook-of-diffusion-mr-tractography/dellacqua/978-0-12-818894-1"
+target="_blank">In Handbook of Diffusion MR Tractography, Academic Press, 2024</a></li>
 
 <li>MR diffusion tractography  <br />
 <em> Behrens TEJ, Sotiropoulos SN, Jbabdi S</em><br />
