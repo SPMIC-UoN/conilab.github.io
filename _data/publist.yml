@@ -1,4 +1,12 @@
 
+- title:"Connectivity profile and function of uniquely human cortical areas"
+  image: dummy.png
+  description: ""
+  authors: Bryant KL, Camilleri J, Warrington S, Freches GB, Sotiropoulos SN, Jbabdi S, Eickhoff S, Mars RB
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.06.20.599486v1
+    display: (2024)
+  highlight: 0
 
 
 - title: "Personalized circuit modeling captures variation in cortical functional connectivity"
@@ -16,8 +24,8 @@
   description: ""
   authors: Cirstian R, Forde NJ, Andersson JLR, Sotiropoulos SN, Beckmann CF, Marquand AF
   link:
-    url: https://www.biorxiv.org/content/10.1101/2023.06.30.546837v2
-    display: (2024)
+    url: https://doi.org/10.1162/imag_a_00144
+    display: Imaging Neuroscience (2024)
   highlight: 0
 
 
