@@ -1,13 +1,3 @@
-- title: "Whole brain functional connectivity: insights from next generation neural mass modelling incorporating electrical synapses"
-  image: dummy.png
-  description: ""
-  authors: Forrester M, Petros S, Cattell O, Lai YM, O'Dea R, Sotiropoulos S, Coombes S
-  link:
-    url: 
-    display: PLOS Computational Biology (2024)
-  highlight: 0
-
-
 - title: "Connectivity profile and function of uniquely human cortical areas"
   image: dummy.png
   description: ""
@@ -25,6 +15,16 @@
   link:
     url: https://www.biorxiv.org/content/10.1101/2024.02.19.581085v1
     display: (2024)
+  highlight: 0
+
+
+- title: "Whole brain functional connectivity: insights from next generation neural mass modelling incorporating electrical synapses"
+  image: dummy.png
+  description: ""
+  authors: Forrester M, Petros S, Cattell O, Lai YM, O'Dea R, Sotiropoulos S, Coombes S
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1012647
+    display: PLOS Computational Biology 20:e1012647 (2024)
   highlight: 0
 
 
