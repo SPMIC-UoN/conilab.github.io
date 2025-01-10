@@ -1,7 +1,7 @@
 ---
 title: "CoNI Lab - Publications"
-layout: textlay
-excerpt: "CoNI Lab -- Publications."
+layout: gridlay
+excerpt: "CoNI Lab -- Publications"
 sitemap: false
 permalink: /publications/
 ---

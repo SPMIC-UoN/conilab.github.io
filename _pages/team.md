@@ -1,7 +1,7 @@
 ---
 title: "CoNI Lab - Team"
 layout: gridlay
-excerpt: "CoNI Lab: Team members"
+excerpt: "CoNI Lab -- Team members"
 sitemap: false
 permalink: /team/
 ---
