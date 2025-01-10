@@ -1,10 +1,51 @@
+- title: "Uncertainty mapping and probabilistic tractography using Simulation-Based Inference in diffusion MRI: A comparison with classical Bayes"
+  image: dummy.png
+  description: ""
+  authors: Manzano-Patron JP, Deistler M, Schröder C, Kypraios T, Gonçalves PJ, Macke JH, Sotiropoulos SN
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.11.19.624267v1
+    display: (2025)
+  highlight: 0
+
+
+- title: "ON-Harmony: A multi-site, multi-modal travelling-heads resource for brain MRI harmonisation"
+  image: dummy.png
+  description: ""
+  authors: Warrington S, Torchi A, Mougin O, Campbell J, Ntata A, Craig M, Assimopoulos S, Alfaro-Almagro F, Miller K,
+Jenkinson M, Morgan PS, Sotiropoulos SN
+  link:
+    url:
+    display: (2025)
+  highlight: 0
+
+
+- title: "Cross-Species Neuroanatomy in Primates Using Tractography"
+  image: dummy.png
+  description: ""
+  authors: Sotiropoulos SN, Thiebaut de Schotten M, Haber SN, Forkel SJ
+  link:
+    url:
+    display: (2025)
+  highlight: 0
+
+
+- title: "Brains Under Stress: Unravelling the Effects of the COVID-19 Pandemic on Brain Ageing"
+ image: dummy.png
+  description: ""
+  authors: Mohammadi-Nejad AR, Craig M, Cox E, Chen X, Jenkins RG, Francis S, Sotiropoulos SN, Auer DP
+  link:
+    url: https://www.medrxiv.org/content/10.1101/2024.07.22.24310790v2
+    display: (2025)
+  highlight: 0
+
+
 - title: "Connectivity profile and function of uniquely human cortical areas"
   image: dummy.png
   description: ""
   authors: Bryant KL, Camilleri J, Warrington S, Freches GB, Sotiropoulos SN, Jbabdi S, Eickhoff S, Mars RB
   link:
     url: https://www.biorxiv.org/content/10.1101/2024.06.20.599486v1
-    display: (2024)
+    display: (2025)
   highlight: 0
 
 
