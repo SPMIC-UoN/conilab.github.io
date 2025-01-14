@@ -95,19 +95,29 @@ target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to i
 
 ## PhD Theses
 <ol>
+<li>Whole-brain imaging in rodents using MRI and 3D microscopy: A cross-scale, multi-modal approach<br/>
+<em> Jenna Hanmer (supervised by: S. N. Sotiropoulos, T. Farr, P. S. Morgan) </em> <br/>
+<a href="https://eprints.nottingham.ac.uk/" target="_blank">PhD
+University of Nottingham</a>, 2025</li>
+
+<li>Interpretability and annotation scarcity in deep medical image segmentation <br/>
+<em> Golnar Khalili Zadeh Mahani  (supervised by: A. French, X. Chen,
+S. N. Sotiropoulos) </em> <br/>
+<a href="https://eprints.nottingham.ac.uk/78836" target="_blank">PhD University of Nottingham</a>, 2024</li>
+
 <li>On noise, uncertainty and inference for computational diffusion MRI <br/>
 <em> Jose Pedro Manzano-Patron (supervised by: S. N. Sotiropoulos, T. Kypraios) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/74189" target="_blank">PhD University of Nottingham </a>, 2023</li>
+<a href="https://eprints.nottingham.ac.uk/74189" target="_blank">PhD University of Nottingham</a>, 2023</li>
 
 
 <li>The numerical solution of neural field models posed on realistic cortical domains <br/>
 <em> Sammy Petros (supervised by: S. Coombes, S. N. Sotiropoulos, P. Houston) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/72417" target="_blank">PhD University of Nottingham </a>, 2023</li>
+<a href="https://eprints.nottingham.ac.uk/72417" target="_blank">PhD University of Nottingham</a>, 2023</li>
 
 
 <li>On harmonisation of brain MRI data across scanners and sites <br/>
 <em> Asante Ntata (supervised by: S. N. Sotiropoulos, O. Mougin) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/74417/" target="_blank">PhD University of Nottingham </a>, 2023</li>
+<a href="https://eprints.nottingham.ac.uk/74417/" target="_blank">PhD University of Nottingham</a>, 2023</li>
 
 
 <li>Brain connectivity mapping with diffusion MRI across individuals and species <br/>
@@ -118,12 +128,12 @@ target="_blank">In Diffusion MRI, 2nd Edition:From quantitative measurement to i
 <li>Examining structural and functional connectivity change in animal models of cerebrovascular disease <br/>
 <em> Gerard Hall (supervised by T. Farr, S. N. Sotiropoulos) </em> <br/>
 <a href="https://eprints.nottingham.ac.uk/65800" target="_blank">PhD
-University of Nottingham </a>, 2021</li>
+University of Nottingham</a>, 2021</li>
 
 
 <li>Mapping connections in the neonatal brain with magnetic resonance imaging <br/>
 <em> Elinor Thompson (supervised by: S. N. Sotiropoulos, M. Bastiani) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/64848" target="_blank">PhD University of Nottingham </a>, 2021</li>
+<a href="https://eprints.nottingham.ac.uk/64848" target="_blank">PhD University of Nottingham</a>, 2021</li>
 
 
 <li>Simulating Brain Resting-State Activity What Matters? <br/>
