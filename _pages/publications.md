@@ -103,7 +103,7 @@ University of Nottingham</a>, 2025</li>
 <li>Interpretability and annotation scarcity in deep medical image segmentation <br/>
 <em> Golnar Khalili Zadeh Mahani  (supervised by: A. French, X. Chen,
 S. N. Sotiropoulos) </em> <br/>
-<a href="https://eprints.nottingham.ac.uk/78836" target="_blank">PhD University of Nottingham</a>, 2024</li>
+<a href="https://eprints.nottingham.ac.uk/78836/1/KhaliliZadehMahani_Golnar_14342206_Corrections.pdf" target="_blank">PhD University of Nottingham</a>, 2024</li>
 
 <li>On noise, uncertainty and inference for computational diffusion MRI <br/>
 <em> Jose Pedro Manzano-Patron (supervised by: S. N. Sotiropoulos, T. Kypraios) </em> <br/>
